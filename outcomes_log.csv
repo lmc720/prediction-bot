@@ -1,2 +1,11 @@
 date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-09-20T15:01:55.586092,tunZRdOz0P,Will Tottenham Hotspur score a goal in their next Premier League fixture?,0.679,YES,Lost 2-3 but scored twice
+2026-09-21T09:03:48.290248,NUc86dCdL5,NFL Week 2: Will the Green Bay Packers beat the New York Jets by 6 or more points?,0.5643796170973557,NO,auto-detected
+2026-09-21T09:03:50.642361,g688d6Uh8N,EPL: Will Manchester United beat Fulham?,0.5243757431629015,NO,auto-detected
+2026-09-21T09:03:51.400415,qg2y92d8hQ,NFL Week 2: Will the Kansas City Chiefs beat Indianapolis by 7 or more points?,0.5456241676612311,NO,auto-detected
+2026-09-21T09:03:53.883018,96ZuRn5LIE,NFL Week 2: Will the Chicago Bears beat the MInnesota Vikings by 3 or more points?,0.6475408253267294,NO,auto-detected
+2026-09-21T09:03:54.462791,ZSluLO0LQI,NFL Week 2: Will the Philadelphia Eagles beat the Tennessee Titans by 7 or more points?,0.5696306142793212,NO,auto-detected
+2026-09-21T09:03:54.895526,N6NEchzhZI,Will any NFL game go to overtime this week?,0.6654137781477674,YES,auto-detected
+2026-09-21T09:04:02.171481,0ql8Qq2dO0,NFL Week 2: Will the Green Bay Packers beat the New York Jets by 4 or more points?,0.5433583120562391,NO,auto-detected
+2026-09-22T09:03:22.134965,tQSA6SdL9Q,NFL Week 2: Will the Los Angeles Rams beat the New York Giants by 7 or more points?,0.51,YES,auto-detected
+2026-09-22T09:03:30.958937,qhP9dZQP0E,Will any game during Week 2 of the 2026 NFL season end in a scorigami?,0.010000000000000016,NO,auto-detected
