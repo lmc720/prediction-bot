@@ -1,5 +1,6 @@
 import os
 import csv
+import random
 from datetime import datetime
 from dotenv import load_dotenv
 import anthropic
@@ -9,6 +10,10 @@ load_dotenv()
 client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 def get_open_market():
+    """
+    Fetch a fresh, currently open Premier League market directly from Manifold,
+    picking randomly among genuinely uncertain, eligible markets.
+    """
     url = "https://api.manifold.markets/v0/search-markets"
     params = {
         "term": "Premier League",
@@ -19,10 +24,17 @@ def get_open_market():
     response.raise_for_status()
     markets = response.json()
 
-    for m in markets:
-        if not m.get("isResolved") and m.get("probability") is not None:
-            return m
-    return None
+    eligible = [
+        m for m in markets
+        if not m.get("isResolved")
+        and m.get("probability") is not None
+        and 0.05 < m.get("probability") < 0.95  # skip near-certain markets
+    ]
+
+    if not eligible:
+        return None
+
+    return random.choice(eligible)
 
 def research_and_predict(question):
     response = client.messages.create(
@@ -31,7 +43,7 @@ def research_and_predict(question):
         tools=[{
             "type": "web_search_20250305",
             "name": "web_search",
-            "max_uses": 3  # caps how many searches Claude can run per question
+            "max_uses": 3
         }],
         messages=[{
             "role": "user",
