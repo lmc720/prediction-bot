@@ -9,3 +9,4 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-09-21T09:04:02.171481,0ql8Qq2dO0,NFL Week 2: Will the Green Bay Packers beat the New York Jets by 4 or more points?,0.5433583120562391,NO,auto-detected
 2026-09-22T09:03:22.134965,tQSA6SdL9Q,NFL Week 2: Will the Los Angeles Rams beat the New York Giants by 7 or more points?,0.51,YES,auto-detected
 2026-09-22T09:03:30.958937,qhP9dZQP0E,Will any game during Week 2 of the 2026 NFL season end in a scorigami?,0.010000000000000016,NO,auto-detected
+2026-09-25T09:04:18.430971,cy80CQEUOq,NFL Week 3: Will the Green Bay Packers beat the Atlanta Falcons by 6 or more points?,0.49000000000000005,NO,auto-detected
