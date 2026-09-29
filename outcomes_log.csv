@@ -16,3 +16,5 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-09-28T09:05:34.710458,6nRPEAS9AL,NFL Week 3: Will the Jacksonville Jaguars beat the New England Patriots by at least 4 points?,0.42,YES,auto-detected
 2026-09-28T09:05:35.117273,EURNs8lnNl,NFL Week 3: Will the total combined score of the Ravens vs. Cowboys game be OVER 52.5 points?,0.49171082331119936,YES,auto-detected
 2026-09-28T09:05:44.230930,RORyzP5LdS,NFL Week 3: Will the New York Giants beat the Tennessee Titans by at least 7 points?,0.34000000000000014,NO,auto-detected
+2026-09-29T09:05:37.570262,5nILEnzSSd,Will there be a Scorigami in week 3 of the 2025-26 NFL season?,0.01000000000000003,NO,auto-detected
+2026-09-29T09:05:40.493201,nQ9yZlZOzA,Will any NFL game go to overtime this week?,0.009999999999999988,NO,auto-detected
