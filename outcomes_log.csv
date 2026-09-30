@@ -18,3 +18,4 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-09-28T09:05:44.230930,RORyzP5LdS,NFL Week 3: Will the New York Giants beat the Tennessee Titans by at least 7 points?,0.34000000000000014,NO,auto-detected
 2026-09-29T09:05:37.570262,5nILEnzSSd,Will there be a Scorigami in week 3 of the 2025-26 NFL season?,0.01000000000000003,NO,auto-detected
 2026-09-29T09:05:40.493201,nQ9yZlZOzA,Will any NFL game go to overtime this week?,0.009999999999999988,NO,auto-detected
+2026-09-30T09:04:33.178677,RESt2Lyncl,Will any game during Week 3 of the 2026 NFL season end in a scorigami?,0.010000000000000021,NO,auto-detected
