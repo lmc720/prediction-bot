@@ -9,3 +9,14 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-09-21T09:04:02.171481,0ql8Qq2dO0,NFL Week 2: Will the Green Bay Packers beat the New York Jets by 4 or more points?,0.5433583120562391,NO,auto-detected
 2026-09-22T09:03:22.134965,tQSA6SdL9Q,NFL Week 2: Will the Los Angeles Rams beat the New York Giants by 7 or more points?,0.51,YES,auto-detected
 2026-09-22T09:03:30.958937,qhP9dZQP0E,Will any game during Week 2 of the 2026 NFL season end in a scorigami?,0.010000000000000016,NO,auto-detected
+2026-09-25T09:04:18.430971,cy80CQEUOq,NFL Week 3: Will the Green Bay Packers beat the Atlanta Falcons by 6 or more points?,0.49000000000000005,NO,auto-detected
+2026-09-27T09:03:10.439795,zCntQlC2qR,Will Trent-Alexander Arnold start against Spain on 26 September 2026?,0.7362920798067604,NO,auto-detected
+2026-09-28T09:05:30.531965,6cSNAZhUt9,NFL Week 3: Will the Cincinnati Bengals beat the Pittsburgh Steelers by at least 4 points?,0.47,NO,auto-detected
+2026-09-28T09:05:33.335654,Cyc5hZNCc8,NFL Week 3: Will the total combined score of the Chargers vs. Buffalo Bills game be OVER 51.5 points?,0.45248868778280543,NO,auto-detected
+2026-09-28T09:05:34.710458,6nRPEAS9AL,NFL Week 3: Will the Jacksonville Jaguars beat the New England Patriots by at least 4 points?,0.42,YES,auto-detected
+2026-09-28T09:05:35.117273,EURNs8lnNl,NFL Week 3: Will the total combined score of the Ravens vs. Cowboys game be OVER 52.5 points?,0.49171082331119936,YES,auto-detected
+2026-09-28T09:05:44.230930,RORyzP5LdS,NFL Week 3: Will the New York Giants beat the Tennessee Titans by at least 7 points?,0.34000000000000014,NO,auto-detected
+2026-09-29T09:05:37.570262,5nILEnzSSd,Will there be a Scorigami in week 3 of the 2025-26 NFL season?,0.01000000000000003,NO,auto-detected
+2026-09-29T09:05:40.493201,nQ9yZlZOzA,Will any NFL game go to overtime this week?,0.009999999999999988,NO,auto-detected
+2026-09-30T09:04:33.178677,RESt2Lyncl,Will any game during Week 3 of the 2026 NFL season end in a scorigami?,0.010000000000000021,NO,auto-detected
+2026-10-01T09:05:16.793745,s9LRNgAyhq,MLB: Will either the White Sox or the Astros sweep their 2026 AL Wild Card series (2–0)?,0.5064386885225495,YES,auto-detected
