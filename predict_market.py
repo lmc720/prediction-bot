@@ -9,32 +9,37 @@ import requests
 load_dotenv()
 client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
-def get_open_market():
+def get_target_markets(count=5, max_days_to_close=14):
     """
-    Fetch a fresh, currently open Premier League market directly from Manifold,
-    picking randomly among genuinely uncertain, eligible markets.
+    Fetch a batch of currently open, genuinely uncertain Premier League
+    markets closing within the next `max_days_to_close` days.
     """
     url = "https://api.manifold.markets/v0/search-markets"
     params = {
         "term": "Premier League",
-        "limit": 20,
+        "limit": 50,
         "sort": "close-date"
     }
     response = requests.get(url, params=params)
     response.raise_for_status()
     markets = response.json()
 
+    now_ms = datetime.now().timestamp() * 1000
+    cutoff_ms = now_ms + (max_days_to_close * 24 * 60 * 60 * 1000)
+
     eligible = [
         m for m in markets
         if not m.get("isResolved")
         and m.get("probability") is not None
-        and 0.05 < m.get("probability") < 0.95  # skip near-certain markets
+        and 0.05 < m.get("probability") < 0.95
+        and m.get("closeTime") is not None
+        and now_ms < m.get("closeTime") < cutoff_ms
     ]
 
-    if not eligible:
-        return None
+    if len(eligible) <= count:
+        return eligible
 
-    return random.choice(eligible)
+    return random.sample(eligible, count)
 
 def research_and_predict(question):
     response = client.messages.create(
@@ -89,23 +94,27 @@ def log_prediction(market_id, question, market_probability, claude_probability, 
         ])
 
 if __name__ == "__main__":
-    market = get_open_market()
-    if market is None:
-        print("No open market found.")
+    markets = get_target_markets(count=5, max_days_to_close=14)
+
+    if not markets:
+        print("No eligible markets found within the closing-time window.")
     else:
-        question = market["question"]
-        market_probability = market["probability"]
-        market_id = market["id"]
+        print(f"Found {len(markets)} eligible markets.\n")
 
-        print(f"Live market found: {question}")
-        print(f"Current market price: {market_probability}\n")
+        for market in markets:
+            question = market["question"]
+            market_probability = market["probability"]
+            market_id = market["id"]
 
-        result_text = research_and_predict(question)
-        print("--- Claude's full response ---")
-        print(result_text)
+            print(f"--- {question} ---")
+            print(f"Current market price: {market_probability}")
 
-        claude_probability, reasoning = parse_prediction(result_text)
-        print(f"\nMarket price: {market_probability}")
-        print(f"Claude's estimate: {claude_probability}")
+            result_text = research_and_predict(question)
+            claude_probability, reasoning = parse_prediction(result_text)
 
-        log_prediction(market_id, question, market_probability, claude_probability, reasoning)
+            print(f"Claude's estimate: {claude_probability}")
+            print(f"Reasoning: {reasoning}\n")
+
+            log_prediction(market_id, question, market_probability, claude_probability, reasoning)
+
+        print(f"Done. Logged {len(markets)} predictions.")
