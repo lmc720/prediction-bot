@@ -22,3 +22,16 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-01T09:05:16.793745,s9LRNgAyhq,MLB: Will either the White Sox or the Astros sweep their 2026 AL Wild Card series (2–0)?,0.5064386885225495,YES,auto-detected
 2026-10-02T09:05:42.319364,9RERqzynpQ,Will the NFL officially announce the 2027 Super Bowl halftime show headliner before the end of September 2026?,0.054370102584523114,NO,auto-detected
 2026-10-02T09:05:48.748268,StNhQqQUQs,NFL Week 4: Will the Pittsburgh Steelers beat the Cleveland Browns by 3 or more points on Thursday Night Football?,0.5399999999999999,NO,auto-detected
+2026-10-05T09:06:38.791829,EdEUlLylLp,NFL Week 4: Will the total combined score in the Los Angeles Chargers vs. Seattle Seahawks game be OVER 43.5 points?,0.4653331810789562,YES,auto-detected
+2026-10-05T09:06:39.517408,lcSz5QLqlt,NFL Week 4: Will the Philadelphia Eagles defeat the Los Angeles Rams by 3 or more points in Week 4?,0.32,NO,auto-detected
+2026-10-05T09:06:40.317727,8ELgZSC6yO,NFL Week 4: Will the total combined score in the New York Giants vs. Arizona Cardinals game be OVER 43.5 points?,0.5247712946794686,YES,auto-detected
+2026-10-05T09:06:40.987153,LSup0uEEt8,NFL Week 4: Will the total combined score of the Colts vs. Commanders London game be OVER 46.5 points?,0.5099118644497865,NO,auto-detected
+2026-10-05T09:06:45.430603,EElsp9Oy9u,NFL Week 4: Will the total combined score in the Green Bay Packers vs. Tampa Bay Buccaneers game be OVER 39.5 points?,0.49502499876243755,NO,auto-detected
+2026-10-05T09:06:46.672636,O6h9gSclZd,NFL Week 4: Will the total combined score in the New England Patriots vs. Buffalo Bills game be OVER 48.5 points?,0.5500000000000003,YES,auto-detected
+2026-10-05T09:06:47.763809,ICCg2scdPu,NFL Week 4: Will the total combined score in the Cincinnati Bengals vs. Jacksonville Jaguars game be OVER 50.5 points?,0.5499999999999999,NO,auto-detected
+2026-10-05T09:06:52.215250,2ECZhZZLRS,NFL Week 4: Will the total combined score of the Dallas Cowboys vs. Houston Texans game be OVER 47.5 points?,0.5404585411866334,YES,auto-detected
+2026-10-05T09:06:53.596050,9RE5t9hhPZ,NFL Week 4: Will the total combined score in the Denver Broncos vs. San Francisco 49ers game be OVER 46.5 points?,0.56,NO,auto-detected
+2026-10-05T09:06:53.881722,5ORNudgp6s,NFL Week 4: Will the total combined score in the Miami Dolphins vs. Minnesota Vikings game be OVER 39.5 points?,0.4653331810789562,NO,auto-detected
+2026-10-05T09:06:54.530666,cg65SLAZz6,NFL Week 4: Will the total combined score in the Los Angeles Rams vs.  Philadelphia Eagles game be OVER 43.5 points?,0.47,YES,auto-detected
+2026-10-05T09:06:55.678381,dNPyEIqghN,NFL Week 4: Will the total combined score in the Baltimore Ravens vs. Tennessee Titans game be OVER 43.5 points?,0.44999999999999996,NO,auto-detected
+2026-10-05T09:07:00.938526,puLAuq6I0s,NFL Week 4: Will the total combined score in the Kansas City Chiefs vs. Las Vegas Raiders game be OVER 47.5 points?,0.5004997500001249,YES,auto-detected
