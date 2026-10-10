@@ -40,3 +40,4 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-06T09:05:45.497485,55q9ShOg8s,NFL Week 4: Will the total combined score in the Detroit Lions vs. Carolina Panthers game be OVER 49.5 points?,0.59,YES,auto-detected
 2026-10-06T09:05:45.757373,sZUClON5lS,Will any NFL game go to overtime this week?,0.03527626759357235,NO,auto-detected
 2026-10-06T09:05:51.991182,CyQhzCgpzc,NFL Week 4: Will the total combined score in the Atlanta Falcons vs. New Orleans Saints game be OVER 46.5 points?,0.5499999999999999,YES,auto-detected
+2026-10-10T09:03:58.964035,LsNAC292Cg,NFL Week 5: Will the total combined score in the Dallas Cowboys vs. Tampa Bay Buccaneers game be OVER 46.5 points?,0.58,NO,auto-detected
