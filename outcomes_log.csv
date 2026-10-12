@@ -46,3 +46,22 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-11T09:04:57.347131,50AZLSQN9A,EPL: Will Manchester United beat Tottenham Hotspur?,0.56,NO,auto-detected
 2026-10-11T09:05:04.330676,C9p5dQPdRU,EPL: Will there be OVER 2.5 total goals in Arsenal vs. Leeds?,0.5285012205230677,YES,auto-detected
 2026-10-11T09:05:04.723172,9z8uuZA85S,EPL: Will Brentford beat Aston Villa?,0.38715309826705135,NO,auto-detected
+2026-10-12T09:08:12.511317,59nCdNcU9P,NFL Week 5: Will the total combined score in the Detroit Lions vs. Arizona Cardinals game be OVER 53.5 points?,0.54,YES,auto-detected
+2026-10-12T09:08:13.485091,p60dUnQ2ER,NFL Week 5: Will the total combined score in the Philadelphia Eagles vs. Jacksonville Jaguars game be OVER 44.5 points?,0.42999999999999994,NO,auto-detected
+2026-10-12T09:08:13.940567,6pgNuAdsnq,NFL Week 5: Will the total combined score in the Green Bay Packers vs. Chicago Bears game be OVER 44.5 points?,0.5599999999999997,NO,auto-detected
+2026-10-12T09:08:16.301550,RZUcNE8qSN,NFL Week 5: Will the total combined score in the Pittsburgh Steelers vs. Indianapolis Colts game be OVER 45.5 points?,0.3900000000000001,YES,auto-detected
+2026-10-12T09:08:18.247985,50Rg2UL00y,Will a wild card team win the MLB World Series in 2026?,0.22358692895997603,NO,auto-detected
+2026-10-12T09:08:19.602471,PdChg58gZ5,NFL Week 5: Will the total combined score in the Baltimore Ravens vs. Atlanta Falcons game be OVER 46.5 points?,0.42,YES,auto-detected
+2026-10-12T09:08:19.868122,5dhzPglphE,EPL: Will Manchester City beat Liverpool?,0.4600000000000001,YES,auto-detected
+2026-10-12T09:08:20.613763,S5QCNOO55d,NFL Week 5: Will the total combined score in the Tennessee Titans vs. Houston Texans game be OVER 39.5 points?,0.45,NO,auto-detected
+2026-10-12T09:08:21.591202,Cggy66ROsy,NFL Week 5: Will the total combined score in the Minnesota Vikings vs. New Orleans Saints game be OVER 42.5 points?,0.447157019922329,YES,auto-detected
+2026-10-12T09:08:21.720829,dzSh8tpS8L,NFL Week 5: Will the total combined score in the San Francisco 49ers vs. Seattle Seahawks game be OVER 47.5 points?,0.4699999999999999,YES,auto-detected
+2026-10-12T09:08:21.846471,8EhENs9z5Z,NFL: Will at least one NFL regular-season game end in a tie during the 2026 season?,0.645921281458855,YES,auto-detected
+2026-10-12T09:08:24.285578,Lgg99d8ph0,NFL Week 5: Will the total combined score in the New England Patriots vs. Las Vegas Raiders game be OVER 45.5 points?,0.4900000000000002,YES,auto-detected
+2026-10-12T09:08:25.102933,hcP6tO6APL,NFL Week 5: Will the total combined score in the New York Jets vs. Cleveland Browns game be OVER 38.5 points?,0.5,NO,auto-detected
+2026-10-12T09:08:27.814054,lpd0ty252s,NFL Week 5: Will the total combined score in the New York Giants vs. Washington Commanders game be OVER 42.5 points?,0.4799999999999998,YES,auto-detected
+2026-10-12T09:08:28.057195,IEdtyhCsIg,EPL: Will Manchester City beat Liverpool? (Draw No Bet),0.6154404770427364,YES,auto-detected
+2026-10-12T09:08:28.501533,0z5gudQEzd,Will there be a tie score in the 2026/27 NFL season?,0.9899999999999999,YES,auto-detected
+2026-10-12T09:08:29.060412,p6EAtgE2EZ,NFL Week 5: Will the total combined score in the Cincinnati Bengals vs. Miami Dolphins game be OVER 42.5 points?,0.57,YES,auto-detected
+2026-10-12T09:08:29.216237,l6EC509OLp,NFL Week 5: Will the total combined score in the Los Angeles Chargers vs. Denver Broncos game be OVER 42.5 points?,0.4799999999999999,NO,auto-detected
+2026-10-12T09:08:30.314893,qNZCdLqRRN,EPL: Will Everton beat Hull?,0.4620457705906976,NO,auto-detected
