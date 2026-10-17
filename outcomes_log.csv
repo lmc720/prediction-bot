@@ -67,3 +67,4 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-12T09:08:30.314893,qNZCdLqRRN,EPL: Will Everton beat Hull?,0.4620457705906976,NO,auto-detected
 2026-10-13T09:07:21.874750,uPP5ytSyLN,Will any game during Week 5 of the 2026 NFL Season end in a scorigami?,0.02885442948958135,NO,auto-detected
 2026-10-13T09:07:31.392613,QRl0shIy9d,NFL Week 5: Will the total combined score in the Los Angeles Rams vs. Buffalo Bills game be OVER 54.5 points?,0.53,YES,auto-detected
+2026-10-17T09:13:04.681094,6gQp20UEAQ,NFL Week 6: Will the total combined score in the Seattle Seahawks vs. Denver Broncos game be OVER 42.5 points?,0.43999999999999995,NO,auto-detected
