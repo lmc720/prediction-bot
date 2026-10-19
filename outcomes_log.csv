@@ -73,3 +73,20 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-18T09:13:59.384922,qcqtE6uNgN,EPL: Will Liverpool beat Brentford?,0.3799999999999997,YES,auto-detected
 2026-10-18T09:14:07.011528,nnEInyS6lS,EPL: Will Newcastle United beat Aston Villa?,0.44000000000000017,NO,auto-detected
 2026-10-18T09:14:14.340354,sltO5E5C86,EPL: Will Manchester City vs. Ipswich Town total OVER 3.5 goals?,0.4510252303591936,YES,auto-detected
+2026-10-19T09:23:52.472678,9u0yEuzOg8,NFL Week 6: Will the total combined score in the Tennessee Titans vs. Indianapolis Colts game be OVER 44.5 points?,0.47000000000000025,YES,auto-detected
+2026-10-19T09:23:52.799471,OI9cAs6tI8,NFL Week 6: Will the total combined score in the Buffalo Bills vs. Las Vegas Raiders game be OVER 53.5 points?,0.5100000000000001,YES,auto-detected
+2026-10-19T09:23:53.870958,zANdRNuuPA,NFL Week 6: Will the total combined score in the Houston Texans vs. Jacksonville Jaguars game be OVER 43.5 points?,0.4399999999999999,YES,auto-detected
+2026-10-19T09:23:54.772911,9Aph2ZOzhL,NFL Week 6: Will the total combined score in the Dallas Cowboys vs. Green Bay Packers game be OVER 53.5 points?,0.5000000000000002,NO,auto-detected
+2026-10-19T09:23:55.601898,N9Pc6pqg8p,EPL: Will Bournemouth beat Sunderland?,0.46999999999999975,YES,auto-detected
+2026-10-19T09:23:55.653290,6N9P2RNIqZ,NFL Week 6: Will the total combined score in the Pittsburgh Steelers vs. Tampa Bay Buccaneers game be OVER 40.5 points?,0.41999999999999993,YES,auto-detected
+2026-10-19T09:23:55.824326,pSOngp26Q0,NFL Week 6: Will the total combined score in the Chicago Bears vs. Atlanta Falcons game be OVER 48.5 points?,0.6000000000000002,YES,auto-detected
+2026-10-19T09:23:56.203843,tctZ65ySER,EPL: Will Arsenal beat Nottingham Forest by 2 or more goals OR will there be a red card?,0.7542668937107231,NO,auto-detected
+2026-10-19T09:23:56.257824,ZhsSCZq8Qu,NFL Week 6: Will the total combined score in the New York Jets vs. New England Patriots game be OVER 44.5 points?,0.44,YES,auto-detected
+2026-10-19T09:23:56.633071,095EUOsPyt,EPL: Will Manchester United beat Leeds United?,0.3500000000000001,NO,auto-detected
+2026-10-19T09:23:56.679764,ZOzl9zhZlz,NFL Week 6: Will the total combined score in the New Orleans Saints vs. New York Giants game be OVER 45.5 points?,0.5200000000000001,YES,auto-detected
+2026-10-19T09:23:57.349348,NtCuR2dZUu,NFL Week 6: Will the total combined score in the Los Angeles Chargers vs. Kansas City Chiefs game be OVER 47.5 points?,0.3700000000000001,NO,auto-detected
+2026-10-19T09:23:57.714835,ZCnSQhhIhP,NFL Week 6: Will the total combined score in the Carolina Panthers vs. Philadelphia Eagles game be OVER 42.5 points?,0.38999999999999996,NO,auto-detected
+2026-10-19T09:23:58.047916,npq080Z8Ql,EPL: Will Brighton beat Crystal Palace by 2 or more goals? (Draw No Bet),0.4999999999752476,YES,auto-detected
+2026-10-19T09:23:58.878291,lUg920uQtO,NFL Week 6: Will the total combined score in the Arizona Cardinals vs. Los Angeles Rams game be OVER 51.5 points?,0.5,NO,auto-detected
+2026-10-19T09:23:59.598508,dyqOCEyShP,NFL Week 6: Will the total combined score in the Dallas Cowboys vs. Green Bay Packers game be OVER 50.5 points?,0.5999999999999999,NO,auto-detected
+2026-10-19T09:24:00.422472,pZOSz5CLhd,NFL Week 6: Will the total combined score in the Baltimore Ravens vs. Cleveland Browns game be OVER 41.5 points?,0.42999999999999994,NO,auto-detected
