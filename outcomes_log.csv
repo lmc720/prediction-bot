@@ -90,3 +90,5 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-19T09:23:58.878291,lUg920uQtO,NFL Week 6: Will the total combined score in the Arizona Cardinals vs. Los Angeles Rams game be OVER 51.5 points?,0.5,NO,auto-detected
 2026-10-19T09:23:59.598508,dyqOCEyShP,NFL Week 6: Will the total combined score in the Dallas Cowboys vs. Green Bay Packers game be OVER 50.5 points?,0.5999999999999999,NO,auto-detected
 2026-10-19T09:24:00.422472,pZOSz5CLhd,NFL Week 6: Will the total combined score in the Baltimore Ravens vs. Cleveland Browns game be OVER 41.5 points?,0.42999999999999994,NO,auto-detected
+2026-10-20T09:20:54.909612,LgdNlR2qNP,Will any game during Week 6 of the 2026 NFL season end in a Scorigami?,0.025291213815316734,NO,auto-detected
+2026-10-20T09:21:05.580793,Nd9RRRNEln,EPL: Will Tottenham Hotspur beat Coventry City by 2 or more goals OR will there be a red card?,0.3900000000000001,YES,auto-detected
