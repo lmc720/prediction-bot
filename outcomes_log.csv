@@ -92,3 +92,10 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-19T09:24:00.422472,pZOSz5CLhd,NFL Week 6: Will the total combined score in the Baltimore Ravens vs. Cleveland Browns game be OVER 41.5 points?,0.42999999999999994,NO,auto-detected
 2026-10-20T09:20:54.909612,LgdNlR2qNP,Will any game during Week 6 of the 2026 NFL season end in a Scorigami?,0.025291213815316734,NO,auto-detected
 2026-10-20T09:21:05.580793,Nd9RRRNEln,EPL: Will Tottenham Hotspur beat Coventry City by 2 or more goals OR will there be a red card?,0.3900000000000001,YES,auto-detected
+2026-10-21T09:22:12.044146,ItCERuUZNn,"NBA: Will the New York Knicks defeat the Philadelphia 76ers by 5 or more points on October 20, 2026?",0.4999999999999997,NO,auto-detected
+2026-10-21T09:22:12.179129,ySRtqNzRQ8,"NBA: Will the Detroit Pistons defeat the Boston Celtics by 2 or more points on October 20, 2026?",0.4761147214227223,YES,auto-detected
+2026-10-21T09:22:12.493574,NSRc0hI9CZ,🏀 Will Victor Wembanyama score 31+ points in the Spurs’ first game of the 2026–27 NBA regular season?,0.3362552294820577,NO,auto-detected
+2026-10-21T09:22:12.857068,LP5t8LUAzU,NBA: Will the total combined score in the San Antonio Spurs vs. Thunder game be OVER 231.5 points?,0.4671474262229339,NO,auto-detected
+2026-10-21T09:22:14.353241,glzQcu9Ogq,NFL Week 6: Philadelphia Eagles beat the Carolina Panthers by 14+ points,0.013577310045174009,NO,auto-detected
+2026-10-21T09:22:20.816726,ZghOcUNy92,NBA: Will the New York Knicks cover the -5.5 point spread against the 76ers on Oct 20?,0.4588512246889139,NO,auto-detected
+2026-10-21T09:22:20.976940,Rn8dLp5gs2,Will Trey Murphy III get traded before the next NBA Season?,0.02128485209995674,NO,auto-detected
