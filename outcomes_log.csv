@@ -99,3 +99,14 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-21T09:22:14.353241,glzQcu9Ogq,NFL Week 6: Philadelphia Eagles beat the Carolina Panthers by 14+ points,0.013577310045174009,NO,auto-detected
 2026-10-21T09:22:20.816726,ZghOcUNy92,NBA: Will the New York Knicks cover the -5.5 point spread against the 76ers on Oct 20?,0.4588512246889139,NO,auto-detected
 2026-10-21T09:22:20.976940,Rn8dLp5gs2,Will Trey Murphy III get traded before the next NBA Season?,0.02128485209995674,NO,auto-detected
+2026-10-22T14:13:30.563673,QCzlzA80Ut,NBA: Will the total combined score in the Atlanta Hawks vs. Orlando Magic game be OVER 233.5 points?,0.5299999999999999,YES,auto-detected
+2026-10-22T14:13:30.778619,LdQpN2Zdpn,NBA: Will the total combined score in the Utah Jazz vs. Memphis Grizzlies game be OVER 241.5 points?,0.5,CANCEL,auto-detected
+2026-10-22T14:13:33.438230,Rpcu55zhCI,NBA: Will the total combined score in the Los Angeles Clippers vs. Sacramento Kings game be OVER 230.5 points?,0.43,NO,auto-detected
+2026-10-22T14:13:35.480618,yCInuCdd62,NBA: Will the total combined score in the Minnesota Timberwolves vs. Miami Heat game be OVER 243.5 points?,0.43999999999999995,NO,auto-detected
+2026-10-22T14:13:36.968124,U9Q2nqP059,NBA: Will the total combined score in the Milwaukee Bucks vs. Wizards game be OVER 238.5 points?,0.5,YES,auto-detected
+2026-10-22T14:13:37.062847,nyqhdRSug0,NBA: Will the total combined score in the Los Angeles Lakers vs. Golden State Warriors game be OVER 235.5 points?,0.45,NO,auto-detected
+2026-10-22T14:13:38.574040,pqS0nQz5CN,NBA: Will the total combined score in the Charlotte Hornets vs. Brooklyn Nets game be OVER 223.5 points?,0.4099999999999999,NO,auto-detected
+2026-10-22T14:13:38.963948,62NpQqhpqt,NBA: Will the total combined score in the Phoenix Suns vs. Portland Trail Blazers game be OVER 233.5 points?,0.4599999999999999,NO,auto-detected
+2026-10-22T14:13:39.514941,s858up6PCq,NBA: Will the total combined score in the Chicago Bulls vs. Toronto Raptors game be OVER 235.5 points?,0.54,NO,auto-detected
+2026-10-22T14:13:40.014270,PUCNdOCs0c,NBA: Will the total combined score in the Indiana Pacers vs. New Orleans Pelicans game be OVER 242.5 points?,0.44,YES,auto-detected
+2026-10-22T14:13:40.309252,NC0QpcgU5S,NBA: Will the total combined score in the Houston Rockets vs. Dallas Mavericks game be OVER 230.5 points?,0.5,CANCEL,auto-detected
