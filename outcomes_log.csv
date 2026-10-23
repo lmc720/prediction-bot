@@ -110,3 +110,6 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-22T14:13:39.514941,s858up6PCq,NBA: Will the total combined score in the Chicago Bulls vs. Toronto Raptors game be OVER 235.5 points?,0.54,NO,auto-detected
 2026-10-22T14:13:40.014270,PUCNdOCs0c,NBA: Will the total combined score in the Indiana Pacers vs. New Orleans Pelicans game be OVER 242.5 points?,0.44,YES,auto-detected
 2026-10-22T14:13:40.309252,NC0QpcgU5S,NBA: Will the total combined score in the Houston Rockets vs. Dallas Mavericks game be OVER 230.5 points?,0.5,CANCEL,auto-detected
+2026-10-23T13:56:00.913434,hQS65ESI9O,NBA: Will Oklahoma City Beat Denver by 8 or More Points?,0.52,YES,auto-detected
+2026-10-23T13:56:01.053311,20sIOIp9ZN,NBA: Will Philadelphia Beat Cleveland by 3 or More Points?,0.5247331976404657,YES,auto-detected
+2026-10-23T13:56:11.339022,6ZLAcAE0Nz,NFL Week 7: Will Chicago beat New England by 3 or more points?,0.54,YES,auto-detected
