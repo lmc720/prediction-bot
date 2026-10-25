@@ -127,3 +127,15 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-24T13:00:15.498255,lPdqpnCpIN,NBA: Will Portland Trailblazers beat Sacramento Kings by 7 or more points?,0.61,YES,auto-detected
 2026-10-24T13:00:16.468174,5yq6ntu6yN,Will the Chicago Bears win against the New England Patriots NFL game Oct 22nd,0.5899999993319305,YES,auto-detected
 2026-10-24T13:00:21.861501,EPPNNOz0C8,NBA: Will Milwaukee Beat Chicago by 3 or More Points?,0.42524394237696983,NO,auto-detected
+2026-10-25T13:26:34.124878,tEngC6su6y,EPL: Will Chelsea beat Tottenham Hotspur?,0.6519460832826649,NO,auto-detected
+2026-10-25T13:26:35.287005,dcSdhppdSO,NBA: Will Phoenix Suns beat Golden State Warriors by 10 or more points?,0.51,CANCEL,auto-detected
+2026-10-25T13:26:37.399228,CN9PynEAl0,NBA: Will Atlanta Hawks beat Houston Rockets by 2 or more points?,0.45284850319073094,NO,auto-detected
+2026-10-25T13:26:41.301085,qCgnUzlc9t,NBA: Will San Antonio Spurs beat Dallas Mavericks by 13 or more points?,0.5599999999999997,YES,auto-detected
+2026-10-25T13:26:45.004574,tUcsU95RO8,EPL: Will Arsenal beat Everton by 2 or more goals?,0.36999999999999994,YES,auto-detected
+2026-10-25T13:26:45.372309,P06cqsgqQp,NBA: Will Washington Wizards beat Chicago Bulls by 2 or more points?,0.4599999999999999,YES,auto-detected
+2026-10-25T13:26:45.851210,RNEL8zscL9,NBA: Will Cleveland Cavaliers beat Brooklyn Nets by 11 or more points?,0.52,CANCEL,auto-detected
+2026-10-25T13:26:50.990923,6UCz85clSU,NBA: Will Philadelphia 76ers beat Milwaukee Bucks by 13 or more points?,0.52,CANCEL,auto-detected
+2026-10-25T13:26:51.222145,tPSugZRCpt,EPL: Will Manchester City beat Aston Villa?,0.6,NO,auto-detected
+2026-10-25T13:26:51.460766,IRP6hZZnN5,NBA: Will Denver Nuggets beat New Orleans Pelicans by 12 or more points?,0.52,NO,auto-detected
+2026-10-25T13:26:52.089108,ygdq5zdZQA,EPL: Will Fulham beat Coventry? (Draw No Bet),0.5619677333667596,YES,auto-detected
+2026-10-25T13:26:53.244487,p8sAL899lA,NBA: Will Miami Heat beat Charlotte Hornets by 4 or more points?,0.5516206137856992,NO,auto-detected
