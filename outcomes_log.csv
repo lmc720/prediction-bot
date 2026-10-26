@@ -139,3 +139,27 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-25T13:26:51.460766,IRP6hZZnN5,NBA: Will Denver Nuggets beat New Orleans Pelicans by 12 or more points?,0.52,NO,auto-detected
 2026-10-25T13:26:52.089108,ygdq5zdZQA,EPL: Will Fulham beat Coventry? (Draw No Bet),0.5619677333667596,YES,auto-detected
 2026-10-25T13:26:53.244487,p8sAL899lA,NBA: Will Miami Heat beat Charlotte Hornets by 4 or more points?,0.5516206137856992,NO,auto-detected
+2026-10-26T15:36:47.901910,CgSc6qOAsP,NFL Week 7: Will San Francisco 49ers Beat Atlanta Falcons by 4 or More Points?,0.42,NO,auto-detected
+2026-10-26T15:36:48.939188,ydhh2CAUp6,NFL Week 7: Will Los Angeles Rams Beat Las Vegas Raiders by 5 or More Points?,0.43999999999999995,YES,auto-detected
+2026-10-26T15:36:52.526910,8I2ztC6p0p,NBA: Will Indiana Pacers beat Brooklyn Nets by 4 or more points?,0.5490334971197811,YES,auto-detected
+2026-10-26T15:36:52.819695,6hIhO8hztI,NFL Week 7: Will Houston Texans Beat New York Giants by 10 or More Points?,0.5300000000000001,NO,auto-detected
+2026-10-26T15:36:54.679218,h062ZhNgZZ,NFL Week 7: Will Pittsburgh Steelers Beat New Orleans Saints by 4 or More Points?,0.45,YES,auto-detected
+2026-10-26T15:36:56.117159,tuA0RssSy2,NFL Week 7: Will Carolina Panthers Beat Tampa Bay Buccaneers by 4 or More Points?,0.43,NO,auto-detected
+2026-10-26T15:36:56.301882,P55s0uLO8l,NFL Week 7: Will Minnesota Vikings Beat Indianapolis Colts by 7 or more points?,0.5200000000000002,NO,auto-detected
+2026-10-26T15:36:57.261064,hczgItCR0h,NBA: Will Philadelphia 76ers beat Detroit Pistons by 2 or more points?,0.52,CANCEL,auto-detected
+2026-10-26T15:36:57.535980,N2NZcq5yUL,NFL Week 7: Will Seattle Seahawks Beat Kansas City Chiefs by 3 or More Points?,0.5300000000000005,YES,auto-detected
+2026-10-26T15:37:01.166944,0N50cC5nCE,EPL: Will Manchester United beat Bournemouth?,0.39999999999999997,NO,auto-detected
+2026-10-26T15:37:01.540647,N2dZZ5I62Q,NBA: Will Minnesota Timberwolves beat Toronto Raptors by 3 or more points?,0.53,CANCEL,auto-detected
+2026-10-26T15:37:01.662472,59Uc55UOIS,NBA: Will Oklahoma City Thunder beat LA Clippers by 10 or more points?,0.5000000000000003,CANCEL,auto-detected
+2026-10-26T15:37:01.819309,pugSZSzO8L,NFL Week 7: Will New York Beat Miami by 5 or More Points?,0.48000000000000004,NO,auto-detected
+2026-10-26T15:37:02.995108,hq8OzEUL0c,NFL Week 7: Will Denver Broncos Beat Arizona Cardinals by 5 or More Points?,0.5000000000000019,YES,auto-detected
+2026-10-26T15:37:03.772445,A2uhhuhdNp,EPL: Will Newcastle United beat Crystal Palace? (Draw No Bet),0.7093121052885232,YES,auto-detected
+2026-10-26T15:37:04.034175,cEZlsU0ty6,NFL Week 7: Will Baltimore Ravens Beat Cincinnati Bengals by 3 or More Points?,0.36,NO,auto-detected
+2026-10-26T15:37:06.837719,Ql8zRg2UIp,NFL Week 7: Will Detroit Lions Beat Green Bay Packers by 4 or More Points?,0.51,NO,auto-detected
+2026-10-26T15:37:07.253086,QOcgNZC9lS,NBA: Will New York Knicks beat Orlando Magic by 6 or more points?,0.5431883843266558,NO,auto-detected
+2026-10-26T15:37:07.403700,8QNSzR82OC,EPL: Will Sunderland beat Leeds? (Draw No Bet),0.3960914197604516,CANCEL,auto-detected
+2026-10-26T15:37:07.542402,N6tQULOuQZ,NFL Week 7: Will Cleveland Browns Beat Tennessee Titans by 2 or more points?,0.5100000000000002,YES,auto-detected
+2026-10-26T15:37:09.038950,CUuspcnydA,EPL: Will Liverpool beat Brighton?,0.44999999999999984,YES,auto-detected
+2026-10-26T15:37:09.210737,AI9NPy5I2g,EPL: Will Brentford beat Hull City?,0.5800000000000001,NO,auto-detected
+2026-10-26T15:37:09.404134,Icy9n2z5zS,NBA: Will Sacramento Kings beat Memphis Grizzlies by 4 or more points?,0.5099999991856853,NO,auto-detected
+2026-10-26T15:37:10.119521,A2thyzpnL0,NBA: Will Los Angeles Lakers beat Utah Jazz by 4 or more points?,0.5340380281418181,YES,auto-detected
