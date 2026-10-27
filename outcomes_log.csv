@@ -163,3 +163,15 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-26T15:37:09.210737,AI9NPy5I2g,EPL: Will Brentford beat Hull City?,0.5800000000000001,NO,auto-detected
 2026-10-26T15:37:09.404134,Icy9n2z5zS,NBA: Will Sacramento Kings beat Memphis Grizzlies by 4 or more points?,0.5099999991856853,NO,auto-detected
 2026-10-26T15:37:10.119521,A2thyzpnL0,NBA: Will Los Angeles Lakers beat Utah Jazz by 4 or more points?,0.5340380281418181,YES,auto-detected
+2026-10-27T15:00:43.411497,O5quZUzdNd,Will any game during Week 7 of the 2026 NFL season end in a scorigami?,0.06779955685477594,NO,auto-detected
+2026-10-27T15:00:43.577424,zOEEqZROZU,NBA: Will Miami Heat beat Dallas Mavericks by 5 or more points?,0.5800000000000001,NO,auto-detected
+2026-10-27T15:00:43.906873,cgEP8us5sA,NBA: Will Atlanta Hawks beat Houston Rockets by 2 or more points?,0.0994494426526021,NO,auto-detected
+2026-10-27T15:00:44.508489,n6ll6tpLO8,NFL Week 7: Will Dallas Cowboys Beat Philadelphia Eagles by 5 or More Points?,0.48999999999999994,YES,auto-detected
+2026-10-27T15:00:48.381596,q8tIZspSyy,NBA: Will Oklahoma City Thunder beat Phoenix Suns by 10 or more points?,0.3909793963174382,YES,auto-detected
+2026-10-27T15:00:51.078609,6Ap6u9RN0E,Will the NFL officially announce the 2027 Super Bowl halftime show headliner before the end of October 2026?,0.6600000000000001,YES,auto-detected
+2026-10-27T15:00:53.747083,UtEppZtphu,Will there be a Scorigami in the next 3 weeks of the NFL Season?,0.37174721189591076,NO,auto-detected
+2026-10-27T15:00:57.222988,E8pZAChO8N,NBA: Will Utah Jazz beat Memphis Grizzlies by 2 or more points?,0.45674220855164316,NO,auto-detected
+2026-10-27T15:00:58.861655,PuPEgt56Qg,NBA: Will Cleveland Cavaliers beat Minnesota Timberwolves by 2 or more points?,0.5,YES,auto-detected
+2026-10-27T15:01:01.657715,6tC99ns0nN,NBA: Will Milwaukee Bucks beat Indiana Pacers by 3 or more points?,0.3667314215967621,YES,auto-detected
+2026-10-27T15:01:03.240999,hg2IUC6I82,NBA: Will Denver Nuggets beat Golden State Warriors by 7 or more points?,0.5499999999999998,NO,auto-detected
+2026-10-27T15:01:03.944377,qSLlZZ9c5O,NBA: Will Boston Celtics beat Chicago Bulls by 12 or more points?,0.6015846050338649,YES,auto-detected
