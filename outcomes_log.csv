@@ -175,3 +175,7 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-27T15:01:01.657715,6tC99ns0nN,NBA: Will Milwaukee Bucks beat Indiana Pacers by 3 or more points?,0.3667314215967621,YES,auto-detected
 2026-10-27T15:01:03.240999,hg2IUC6I82,NBA: Will Denver Nuggets beat Golden State Warriors by 7 or more points?,0.5499999999999998,NO,auto-detected
 2026-10-27T15:01:03.944377,qSLlZZ9c5O,NBA: Will Boston Celtics beat Chicago Bulls by 12 or more points?,0.6015846050338649,YES,auto-detected
+2026-10-28T15:37:00.500713,lPURuqqznp,NBA: Will Los Angeles Lakers beat Portland Trail Blazers by 3 or more points?,0.5257672700892221,NO,auto-detected
+2026-10-28T15:37:01.178577,Ry9qd2dnSQ,NBA: Will Boston Celtics beat Brooklyn Nets by 16 or more points?,0.40600993897774446,NO,auto-detected
+2026-10-28T15:37:09.309300,yALPn6Ehhu,NBA: Will New York Knicks beat Detroit Pistons by 5 or more points?,0.49000000000000005,YES,auto-detected
+2026-10-28T15:37:10.143355,NAQSnC6l9z,NBA: Will San Antonio Spurs beat Sacramento Kings by 15 or more points?,0.6099999999999999,YES,auto-detected
