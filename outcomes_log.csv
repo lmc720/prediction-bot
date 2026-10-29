@@ -179,3 +179,13 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-28T15:37:01.178577,Ry9qd2dnSQ,NBA: Will Boston Celtics beat Brooklyn Nets by 16 or more points?,0.40600993897774446,NO,auto-detected
 2026-10-28T15:37:09.309300,yALPn6Ehhu,NBA: Will New York Knicks beat Detroit Pistons by 5 or more points?,0.49000000000000005,YES,auto-detected
 2026-10-28T15:37:10.143355,NAQSnC6l9z,NBA: Will San Antonio Spurs beat Sacramento Kings by 15 or more points?,0.6099999999999999,YES,auto-detected
+2026-10-29T15:43:22.998209,Icts2Chccu,NBA: Will Minnesota Timberwolves beat Golden State Warriors by 4 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:23.776040,lOOt6SCpy5,NBA: Will Cleveland Cavaliers beat Washington Wizards by 10 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:23.924637,ShEQqI9nlg,NBA: Will New York Knicks beat Chicago Bulls by 8 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:24.620308,g5p8CLd6A0,NBA: Will Detroit Pistons beat Charlotte Hornets by 7 or more points?,0.51,CANCEL,auto-detected
+2026-10-29T15:43:28.255435,ZzEQqSZ2Lp,NBA: Will Denver Nuggets beat New Orleans Pelicans by 5 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:36.182584,hdRU6uPU2t,NBA: Will Los Angeles Lakers beat LA Clippers by 5 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:36.930051,n2cUN5td2n,NBA: Will Philadelphia 76ers beat Indiana Pacers by 6 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:38.721669,QuQtUlLpZ9,NBA: Will Houston Rockets beat Milwaukee Bucks by 9 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:41.133023,6dCZsR26Op,NBA: Will Atlanta Hawks beat Miami Heat by 4 or more points?,0.5,CANCEL,auto-detected
+2026-10-29T15:43:44.729631,uOclu9LLAE,NBA: Will Toronto Raptors beat Orlando Magic by 5 or more points?,0.51,YES,auto-detected
