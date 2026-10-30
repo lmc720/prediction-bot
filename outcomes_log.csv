@@ -189,3 +189,7 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-29T15:43:38.721669,QuQtUlLpZ9,NBA: Will Houston Rockets beat Milwaukee Bucks by 9 or more points?,0.5,CANCEL,auto-detected
 2026-10-29T15:43:41.133023,6dCZsR26Op,NBA: Will Atlanta Hawks beat Miami Heat by 4 or more points?,0.5,CANCEL,auto-detected
 2026-10-29T15:43:44.729631,uOclu9LLAE,NBA: Will Toronto Raptors beat Orlando Magic by 5 or more points?,0.51,YES,auto-detected
+2026-10-30T15:25:33.081073,QPnOL2dSnP,NBA: Will New Orleans Pelicans beat Sacramento Kings by 6 or more points?,0.5148290585843511,YES,auto-detected
+2026-10-30T15:25:36.547897,yhp8IpnluR,NBA: Will Atlanta Hawks beat Cleveland Cavaliers by 2 or more points?,0.5,CANCEL,auto-detected
+2026-10-30T15:25:37.566253,RnQ0ROnZgh,NFL Week 8: Will Green Bay Packers beat Carolina Panthers by 5 or more points?,0.45999999999999985,YES,auto-detected
+2026-10-30T15:25:50.558190,6Zg08zdgsp,NBA: Will Portland Trail Blazers beat Memphis Grizzlies by 8 or more points?,0.5,CANCEL,auto-detected
