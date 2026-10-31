@@ -193,3 +193,12 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-30T15:25:36.547897,yhp8IpnluR,NBA: Will Atlanta Hawks beat Cleveland Cavaliers by 2 or more points?,0.5,CANCEL,auto-detected
 2026-10-30T15:25:37.566253,RnQ0ROnZgh,NFL Week 8: Will Green Bay Packers beat Carolina Panthers by 5 or more points?,0.45999999999999985,YES,auto-detected
 2026-10-30T15:25:50.558190,6Zg08zdgsp,NBA: Will Portland Trail Blazers beat Memphis Grizzlies by 8 or more points?,0.5,CANCEL,auto-detected
+2026-10-31T14:53:54.168329,gscUdq5yht,NBA: Will Los Angeles Lakers beat Golden State Warriors by 4 or more points?,0.5000000000000001,CANCEL,auto-detected
+2026-10-31T14:53:54.290197,LhQtAzty6A,NBA: Will Washington Wizards beat Charlotte Hornets by 2 or more points?,0.46596197185818217,YES,auto-detected
+2026-10-31T14:53:57.381329,ZlEANISZq2,NBA: Will New York Knicks beat Philadelphia 76ers by 2 or more points?,0.5,CANCEL,auto-detected
+2026-10-31T14:54:00.002468,SLcONd0PUA,NBA: Will Minnesota Timberwolves beat LA Clippers by 8 or more points?,0.5,YES,auto-detected
+2026-10-31T14:54:06.308409,6SdQQAgZQS,EPL: Will Chelsea beat Manchester United?,0.4969460931371334,YES,auto-detected
+2026-10-31T14:54:13.691912,ZgCSEpUdIu,NBA: Will Toronto Raptors beat Orlando Magic by 6 or more points?,0.5,CANCEL,auto-detected
+2026-10-31T14:54:16.322457,N6AlzC6qyI,NBA: Will Detroit Pistons beat Brooklyn Nets by 9 or more points?,0.5,CANCEL,auto-detected
+2026-10-31T14:54:16.581603,85SdlQtuS8,NBA: Will Boston Celtics beat Chicago Bulls by 15 or more points?,0.5,CANCEL,auto-detected
+2026-10-31T14:54:16.891431,8SAUuIy5EL,NBA: Will Denver Nuggets beat Phoenix Suns by 5 or more points?,0.5,CANCEL,auto-detected
