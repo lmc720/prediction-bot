@@ -202,3 +202,17 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-10-31T14:54:16.322457,N6AlzC6qyI,NBA: Will Detroit Pistons beat Brooklyn Nets by 9 or more points?,0.5,CANCEL,auto-detected
 2026-10-31T14:54:16.581603,85SdlQtuS8,NBA: Will Boston Celtics beat Chicago Bulls by 15 or more points?,0.5,CANCEL,auto-detected
 2026-10-31T14:54:16.891431,8SAUuIy5EL,NBA: Will Denver Nuggets beat Phoenix Suns by 5 or more points?,0.5,CANCEL,auto-detected
+2026-11-01T15:34:10.032045,809QEE59dc,EPL: Will Bournemouth beat Leeds?,0.4554263482800678,YES,auto-detected
+2026-11-01T15:34:12.467777,SCLy2cc2z6,Will Luka Doncic be in shape at the start of the 2026 NBA season?,0.874417148681335,YES,auto-detected
+2026-11-01T15:34:12.608835,lSsNdISQRd,NBA: Will Cleveland Cavaliers beat Milwaukee Bucks by 9 or more points?,0.53,YES,auto-detected
+2026-11-01T15:34:14.412632,Agznd88SIq,NBA: Will Memphis Grizzlies beat Sacramento Kings by 11 or more points?,0.44999999999999996,YES,auto-detected
+2026-11-01T15:34:15.126610,NNNzyyq0LE,NBA: Will Philadelphia 76ers beat Charlotte Hornets by 2 or more points?,0.5,YES,auto-detected
+2026-11-01T15:34:15.505118,Zgl8uLZtz6,NBA: Will San Antonio Spurs beat Minnesota Timberwolves by 12 or more points?,0.5100000000000002,NO,auto-detected
+2026-11-01T15:34:17.163397,St8z0lzCq2,NBA: Will Houston Rockets beat Oklahoma City Thunder by 5 or more points?,0.4299999999999999,YES,auto-detected
+2026-11-01T15:34:18.004090,cp29lSgUt8,EPL: Will Tottenham Hotspur beat Crystal Palace?,0.6279859760740878,YES,auto-detected
+2026-11-01T15:34:20.095177,yQI2ZE2IOs,EPL: Will Brentford beat Nottingham Forest?,0.4901485047760239,YES,auto-detected
+2026-11-01T15:34:21.406181,92INCE5QOS,NBA: Will Atlanta Hawks beat New Orleans Pelicans by 4 or more points?,0.5100000000000002,NO,auto-detected
+2026-11-01T15:34:21.644493,RnqqZu29CO,NBA: Will Portland Trail Blazers beat Utah Jazz by 7 or more points?,0.5,YES,auto-detected
+2026-11-01T15:34:23.035701,EzLLhQ8CS9,EPL: Will Hull beat Ipswich Town? (Draw No Bet),0.6098731499701425,CANCEL,auto-detected
+2026-11-01T15:34:26.184439,qRNQtdI6yh,EPL: Will Manchester City beat Brighton?,0.5900000000000001,NO,auto-detected
+2026-11-01T15:34:29.240616,68OnPq2lsd,EPL: Will Aston Villa beat Fulham?,0.47,NO,auto-detected
