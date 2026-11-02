@@ -216,3 +216,22 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-01T15:34:23.035701,EzLLhQ8CS9,EPL: Will Hull beat Ipswich Town? (Draw No Bet),0.6098731499701425,CANCEL,auto-detected
 2026-11-01T15:34:26.184439,qRNQtdI6yh,EPL: Will Manchester City beat Brighton?,0.5900000000000001,NO,auto-detected
 2026-11-01T15:34:29.240616,68OnPq2lsd,EPL: Will Aston Villa beat Fulham?,0.47,NO,auto-detected
+2026-11-02T18:57:42.732784,LEgC5yC2Q6,NFL Week 8: Will Pittsburgh Steelers beat Cleveland Browns by 4 or more points?,0.48999999999999994,YES,auto-detected
+2026-11-02T18:57:44.184119,nR2QEOPNAz,NFL Week 8: Will New York Jets beat Las Vegas Raiders by 2 or more points?,0.5099999999999999,NO,auto-detected
+2026-11-02T18:57:44.599227,LgLltuSlO2,NFL Week 8: Will Kansas City Chiefs beat Denver Broncos by 2 or more points?,0.4800000000000001,NO,auto-detected
+2026-11-02T18:57:46.846205,LzOPSCL0ZC,Arsenal defeat Liverpool ?,0.4565116913466758,YES,auto-detected
+2026-11-02T18:57:47.032922,QdR5cz0UEu,NFL Week 8: Will Buffalo Bills beat Baltimore Ravens by 4 or more points?,0.4600000000000002,YES,auto-detected
+2026-11-02T18:57:48.079040,dEqZnACgRz,NFL Week 8: Will Washington Commanders beat Philadelphia Eagles by 6 or more points?,0.5099999999999997,YES,auto-detected
+2026-11-02T18:57:48.825705,Ith5yILCPc,NFL Week 8: Will Detroit Lions beat Minnesota Vikings by 4 or more points?,0.48000000000000004,YES,auto-detected
+2026-11-02T18:57:49.194592,PAUIhsSsn2,NBA: Will Indiana Pacers beat Brooklyn Nets by 4 or more points?,0.5243757431629014,NO,auto-detected
+2026-11-02T18:57:50.321832,Z0n8U0pZ8I,Will any NFL team start the 2026 regular season 7-0?,0.5299999999999999,NO,auto-detected
+2026-11-02T18:57:50.851340,8Ig09CQzuR,NFL Week 8: NFL: Will Los Angeles Rams beat Los Angeles Chargers by 7 or more points?,0.5000000000000004,YES,auto-detected
+2026-11-02T18:57:51.702506,AssQ6S96lc,"Will there be a Scorigami in weeks 8, 9, or 10 of the NFL Season?",0.5475113122171946,YES,auto-detected
+2026-11-02T18:57:51.804223,5C9Acln906,NFL Week 8: Will Jacksonville Jaguars beat Indianapolis Colts by 9 or more points?,0.5000000000000006,YES,auto-detected
+2026-11-02T18:57:52.050410,nRZOEl5uzs,NFL Week 8: Will New England Patriots beat Miami Dolphins by 8 or more points?,0.45999999999999974,NO,auto-detected
+2026-11-02T18:57:53.945040,UtzZlOEtqs,NFL Week 8: Will Dallas Cowboys beat Arizona Cardinals by 7 or more points?,0.54,NO,auto-detected
+2026-11-02T18:57:54.337351,ptgshEsACN,NBA: Will Boston Celtics beat Orlando Magic by 7 or more points?,0.51,YES,auto-detected
+2026-11-02T18:57:55.735737,dq90qNtdCg,EPL: Will Arsenal beat Liverpool?,0.38063496073621267,YES,auto-detected
+2026-11-02T18:57:55.984440,tzpdyPEOzp,NFL Week 8: Will Cincinnati Bengals beat Tennessee Titans by 11 or more points?,0.5499999999999999,NO,auto-detected
+2026-11-02T18:57:56.124174,L5dtgdOguL,Will any game during week 8 of the 2026 NFL season end in a scorigami?,0.9902573291701652,YES,auto-detected
+2026-11-02T18:57:56.408595,A8NRqPd6d8,NFL: Will Tampa Bay Buccaneers beat Atlanta Falcons by 3 or more points?,0.48999999999999994,YES,auto-detected
