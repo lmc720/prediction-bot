@@ -235,3 +235,6 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-02T18:57:55.984440,tzpdyPEOzp,NFL Week 8: Will Cincinnati Bengals beat Tennessee Titans by 11 or more points?,0.5499999999999999,NO,auto-detected
 2026-11-02T18:57:56.124174,L5dtgdOguL,Will any game during week 8 of the 2026 NFL season end in a scorigami?,0.9902573291701652,YES,auto-detected
 2026-11-02T18:57:56.408595,A8NRqPd6d8,NFL: Will Tampa Bay Buccaneers beat Atlanta Falcons by 3 or more points?,0.48999999999999994,YES,auto-detected
+2026-11-03T16:42:58.670190,UULhP6856C,MLB: Will the 2026 World Series need a Game 7?,0.25999999999999995,NO,auto-detected
+2026-11-03T16:48:21.016061,Uq5S9sUZu0,EPL: Will Newcastle beat Everton?,0.4793613149755525,NO,auto-detected
+2026-11-03T16:48:23.502012,0yRqQyONCn,NFL Week 8: Will Seattle Seahawks beat Chicago Bears by 4 or more points?,0.47000000000000003,NO,auto-detected
