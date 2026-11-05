@@ -239,3 +239,12 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-03T16:48:21.016061,Uq5S9sUZu0,EPL: Will Newcastle beat Everton?,0.4793613149755525,NO,auto-detected
 2026-11-03T16:48:23.502012,0yRqQyONCn,NFL Week 8: Will Seattle Seahawks beat Chicago Bears by 4 or more points?,0.47000000000000003,NO,auto-detected
 2026-11-04T16:40:17.321223,pLdAn060OZ,UEFA Champions League: Will Manchester United beat AS Roma by 2 or more goals?,0.22000000000000003,NO,auto-detected
+2026-11-05T16:56:10.333067,cqAg5ONQ2P,NBA: Will Charlotte Hornets beat Brooklyn Nets by 4 or more points?,0.5,CANCEL,auto-detected
+2026-11-05T16:56:20.621319,PysctNhyLN,NBA: Will Atlanta Hawks beat Washington Wizards by 3 or more points?,0.5,YES,auto-detected
+2026-11-05T16:56:20.997046,dsEnlcqS8S,NBA: Will Detroit Pistons beat Philadelphia 76ers by 3 or more points?,0.5,NO,auto-detected
+2026-11-05T16:56:21.495370,Nu2dZN8Upq,NBA: Will Miami Heat beat Los Angeles Clippers by 5 or more points?,0.5,NO,auto-detected
+2026-11-05T16:56:22.448959,L28n6gIUtp,NBA: Will Los Angeles Lakers beat Sacramento Kings by 13 or more points?,0.39000000000000007,YES,auto-detected
+2026-11-05T16:56:26.566759,Z9hgqhAEER,NBA: Will Denver Nuggets beat Toronto Raptors by 5 or more points?,0.5152598619169243,YES,auto-detected
+2026-11-05T16:56:31.637483,uShQNZQLnU,NBA: Will San Antonio Spurs beat Dallas Mavericks by 12 or more points?,0.5,NO,auto-detected
+2026-11-05T16:56:33.799902,9P9hCgCgPq,NBA: Will Portland Trail Blazers beat Phoenix Suns by 4 or more points?,0.48912097135511956,YES,auto-detected
+2026-11-05T16:56:34.353617,ONNZSuEIsZ,NBA: Will Houston Rockets beat Minnesota Timberwolves by 9 or more points?,0.5,CANCEL,auto-detected
