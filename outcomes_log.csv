@@ -248,3 +248,6 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-05T16:56:31.637483,uShQNZQLnU,NBA: Will San Antonio Spurs beat Dallas Mavericks by 12 or more points?,0.5,NO,auto-detected
 2026-11-05T16:56:33.799902,9P9hCgCgPq,NBA: Will Portland Trail Blazers beat Phoenix Suns by 4 or more points?,0.48912097135511956,YES,auto-detected
 2026-11-05T16:56:34.353617,ONNZSuEIsZ,NBA: Will Houston Rockets beat Minnesota Timberwolves by 9 or more points?,0.5,CANCEL,auto-detected
+2026-11-06T16:28:40.227635,zIpgI5lEun,NBA: Will Golden State Warriors beat Miami Heat by 8 or more points?,0.5,CANCEL,auto-detected
+2026-11-06T16:28:43.657240,pE0IcQdnCO,NFL Week 9: Will Jacksonville Jaguars beat Baltimore Ravens by 10 or more points?,0.6086800259674002,YES,auto-detected
+2026-11-06T16:28:54.220698,lC5qgtL2cA,NBA: Will Phoenix Suns beat Orlando Magic by 2 or more points?,0.5,YES,auto-detected
