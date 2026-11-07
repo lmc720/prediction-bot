@@ -251,3 +251,7 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-06T16:28:40.227635,zIpgI5lEun,NBA: Will Golden State Warriors beat Miami Heat by 8 or more points?,0.5,CANCEL,auto-detected
 2026-11-06T16:28:43.657240,pE0IcQdnCO,NFL Week 9: Will Jacksonville Jaguars beat Baltimore Ravens by 10 or more points?,0.6086800259674002,YES,auto-detected
 2026-11-06T16:28:54.220698,lC5qgtL2cA,NBA: Will Phoenix Suns beat Orlando Magic by 2 or more points?,0.5,YES,auto-detected
+2026-11-07T15:16:14.259894,lnI8hl8ydC,EPL: Will Everton beat Coventry?,0.44999999999999973,YES,auto-detected
+2026-11-07T15:16:17.607197,pzg2cI0OUq,NBA: Will Los Angeles Lakers beat Portland Trail Blazers by 4 or more points?,0.5,CANCEL,auto-detected
+2026-11-07T15:16:27.139976,CnIL2RCZ2A,EPL: Will Tottenham Hotspur beat Leeds United by 2 or more goals?,0.22030546394837977,NO,auto-detected
+2026-11-07T15:16:34.815373,ssg08pgch5,NBA: Will San Antonio Spurs beat Sacramento Kings by 18 or more points?,0.5,CANCEL,auto-detected
