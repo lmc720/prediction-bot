@@ -255,3 +255,6 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-07T15:16:17.607197,pzg2cI0OUq,NBA: Will Los Angeles Lakers beat Portland Trail Blazers by 4 or more points?,0.5,CANCEL,auto-detected
 2026-11-07T15:16:27.139976,CnIL2RCZ2A,EPL: Will Tottenham Hotspur beat Leeds United by 2 or more goals?,0.22030546394837977,NO,auto-detected
 2026-11-07T15:16:34.815373,ssg08pgch5,NBA: Will San Antonio Spurs beat Sacramento Kings by 18 or more points?,0.5,CANCEL,auto-detected
+2026-11-08T15:39:39.467459,QRpgdQPN95,"EPL: Will Manchester City beat Nottingham Forest on November 7, 2026?",0.8957751288103083,NO,auto-detected
+2026-11-08T15:39:43.193250,sh25pQgLQ9,"EPL: Will Fulham beat Newcastle United on November 7, 2026?",0.48562990924778554,NO,auto-detected
+2026-11-08T15:39:44.678884,2RNELS99UR,EPL: Will Arsenal beat Hull City by 2 or more goals?,0.6502669264735691,NO,auto-detected
