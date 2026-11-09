@@ -258,3 +258,23 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-08T15:39:39.467459,QRpgdQPN95,"EPL: Will Manchester City beat Nottingham Forest on November 7, 2026?",0.8957751288103083,NO,auto-detected
 2026-11-08T15:39:43.193250,sh25pQgLQ9,"EPL: Will Fulham beat Newcastle United on November 7, 2026?",0.48562990924778554,NO,auto-detected
 2026-11-08T15:39:44.678884,2RNELS99UR,EPL: Will Arsenal beat Hull City by 2 or more goals?,0.6502669264735691,NO,auto-detected
+2026-11-09T19:19:01.585388,q86u66cL9d,NFL Week 9: Will New York Giants beat Philadelphia Eagles by 4 or more points?,0.46,YES,auto-detected
+2026-11-09T19:19:02.002614,0Oq259Cgc2,NFL Week 9: Will Detroit Lions beat Miami Dolphins by 7 or more points?,0.49999999999999994,YES,auto-detected
+2026-11-09T19:19:02.254166,R2ElNyAC8L,NFL Week 9: Will Denver Broncos beat Carolina Panthers by 3 or more points?,0.5200000000000001,YES,auto-detected
+2026-11-09T19:19:04.830528,lU26z05L65,NFL Week 9: Will Chicago Bears beat Tampa Bay Buccaneers by 7 or more points?,0.4799999999999999,NO,auto-detected
+2026-11-09T19:19:10.880222,qunqRR2nuS,"EPL: Will Liverpool beat Crystal Palace on November 8, 2026?",0.63,YES,auto-detected
+2026-11-09T19:19:11.852061,SzEdQ5Ehnl,NFL Week 9: Will San Francisco 49ers beat Las Vegas Raiders by 10 or more points?,0.4900000000000002,YES,auto-detected
+2026-11-09T19:19:12.996279,SEcC89qEnu,NBA: Will Detroit Pistons beat Los Angeles Lakers by 6 or more points?,0.4524886877828055,NO,auto-detected
+2026-11-09T19:19:14.318317,ttczqLsldZ,NFL Week 9: Will New Orleans Saints beat Cleveland Browns by 3 or more points?,0.4974878450945708,NO,auto-detected
+2026-11-09T19:19:15.620015,56lCNRch8d,NFL International Series (Week 9): Will Cincinnati Bengals beat Atlanta Falcons by 4 or more points?,0.5455438890107746,YES,auto-detected
+2026-11-09T19:19:17.080326,pQczQ9sZh0,EPL: Will Chelsea beat Sunderland by 2 or more goals?,0.2959586102650684,NO,auto-detected
+2026-11-09T19:19:17.522904,5pnR9QZC6U,"EPL: Will AFC Bournemouth beat Ipswich Town on November 8, 2026?",0.52,YES,auto-detected
+2026-11-09T19:19:18.451352,C0IucOQh9P,NFL Week 9: Will New England Patriots beat Green Bay Packers by 4 or more points?,0.15999999999999992,NO,auto-detected
+2026-11-09T19:19:18.775223,052csNNhSU,NFL Week 9: Will Houston Texans beat Los Angeles Chargers by 5 or more points?,0.52,YES,auto-detected
+2026-11-09T19:19:19.217732,2E2AA9lPgP,NFL Week 9: Will Seattle Seahawks beat Arizona Cardinals by 12 or more points?,0.40999999999999986,YES,auto-detected
+2026-11-09T19:19:19.927797,5gShpy6gSN,NFL Week 9: Will Kansas City Chiefs beat New York Jets by 10 or more points?,0.49999999999999994,YES,auto-detected
+2026-11-09T19:19:20.360288,pndsPupLS2,"EPL: Will Brighton beat Brentford on November 8, 2026?",0.5099999999999999,YES,auto-detected
+2026-11-09T19:19:20.770284,ctRLzc69zA,"EPL: Will Manchester United beat Aston Villa on November 8, 2026?",0.4399999999999999,NO,auto-detected
+2026-11-09T19:19:26.185344,n6ZUOqRRs8,NFL Week 9: Will Los Angeles Rams beat Washington Commanders by 6 or more points?,0.47,YES,auto-detected
+2026-11-09T19:19:26.606912,hSNIdylqty,NBA: Will Philadelphia 76ers beat Chicago Bulls by 10 or more points?,0.4524886877828055,NO,auto-detected
+2026-11-09T19:19:26.886593,LAUuCCItyl,NFL Week 9: Will Dallas Cowboys beat Indianapolis Colts by 6 or more points?,0.4699999999999998,NO,auto-detected
