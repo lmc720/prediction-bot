@@ -278,3 +278,8 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-09T19:19:26.185344,n6ZUOqRRs8,NFL Week 9: Will Los Angeles Rams beat Washington Commanders by 6 or more points?,0.47,YES,auto-detected
 2026-11-09T19:19:26.606912,hSNIdylqty,NBA: Will Philadelphia 76ers beat Chicago Bulls by 10 or more points?,0.4524886877828055,NO,auto-detected
 2026-11-09T19:19:26.886593,LAUuCCItyl,NFL Week 9: Will Dallas Cowboys beat Indianapolis Colts by 6 or more points?,0.4699999999999998,NO,auto-detected
+2026-11-10T16:40:09.256983,tstQt6U9Zy,Will any game during week 9 of the 2026 NFL season end in a scorigami?,0.06534364831773677,NO,auto-detected
+2026-11-10T16:40:17.675881,9UA5QNQgRZ,NFL Week 9: Will Buffalo Bills beat Minnesota Vikings by 4 or more points?,0.4799999999999999,YES,auto-detected
+2026-11-10T16:40:17.864332,SquNAtNcAI,NBA: Will Detroit Pistons beat Washington Wizards by 11 or more points?,0.5399999999999999,YES,auto-detected
+2026-11-10T16:40:20.880267,PPtp08RyRL,NBA: Will Los Angeles Lakers beat Atlanta Hawks by 3 or more points?,0.500999000001996,YES,auto-detected
+2026-11-10T16:40:23.975120,npsc0uZdCR,NBA: Will Cleveland Cavaliers beat Charlotte Hornets by 9 or more points?,0.5,CANCEL,auto-detected
