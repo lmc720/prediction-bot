@@ -283,3 +283,4 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-10T16:40:17.864332,SquNAtNcAI,NBA: Will Detroit Pistons beat Washington Wizards by 11 or more points?,0.5399999999999999,YES,auto-detected
 2026-11-10T16:40:20.880267,PPtp08RyRL,NBA: Will Los Angeles Lakers beat Atlanta Hawks by 3 or more points?,0.500999000001996,YES,auto-detected
 2026-11-10T16:40:23.975120,npsc0uZdCR,NBA: Will Cleveland Cavaliers beat Charlotte Hornets by 9 or more points?,0.5,CANCEL,auto-detected
+2026-11-11T16:45:21.663492,58CQ5p2d9z,NBA: Will New York Knicks beat Milwaukee Bucks by 16 or more points?,0.4708984742889433,YES,auto-detected
