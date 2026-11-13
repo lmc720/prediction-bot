@@ -287,3 +287,4 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-12T17:13:28.449472,9OLLdUsNq8,NBA: Will Indiana Pacers beat Washington Wizards by 4 or more points?,0.47017369912236573,YES,auto-detected
 2026-11-12T17:13:36.532706,P80Q8SNSL5,NBA: Will New York Knicks beat Cleveland Cavaliers by 3 or more points?,0.5775373162108515,NO,auto-detected
 2026-11-12T17:13:48.520524,sl2zUsPCpA,NBA: Will Indiana Pacers beat Washington Wizards by 4 or more points?,0.48000000000000004,YES,auto-detected
+2026-11-13T16:50:49.907591,SZ8ZuQ0EOE,NBA: Will Phoenix Suns beat Charlotte Hornets by 7 or more points?,0.4999999999999999,NO,auto-detected
