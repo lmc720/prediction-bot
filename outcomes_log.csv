@@ -288,3 +288,6 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-12T17:13:36.532706,P80Q8SNSL5,NBA: Will New York Knicks beat Cleveland Cavaliers by 3 or more points?,0.5775373162108515,NO,auto-detected
 2026-11-12T17:13:48.520524,sl2zUsPCpA,NBA: Will Indiana Pacers beat Washington Wizards by 4 or more points?,0.48000000000000004,YES,auto-detected
 2026-11-13T16:50:49.907591,SZ8ZuQ0EOE,NBA: Will Phoenix Suns beat Charlotte Hornets by 7 or more points?,0.4999999999999999,NO,auto-detected
+2026-11-14T15:24:30.391308,CtlPCqzZll,NBA: Will Portland Trail Blazers beat Sacramento Kings by 11 or more points?,0.5,CANCEL,auto-detected
+2026-11-14T15:24:31.672709,Ic020CyudQ,NFL Week 10: Will New York Giants beat Washington Commanders by 3 or more points?,0.49000000000000027,NO,auto-detected
+2026-11-14T15:24:35.557946,U2S9POtd9C,NBA: Will Oklahoma City Thunder beat LA Clippers by 8 or more points?,0.5000000000000001,NO,auto-detected
