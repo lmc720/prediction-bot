@@ -291,3 +291,8 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-14T15:24:30.391308,CtlPCqzZll,NBA: Will Portland Trail Blazers beat Sacramento Kings by 11 or more points?,0.5,CANCEL,auto-detected
 2026-11-14T15:24:31.672709,Ic020CyudQ,NFL Week 10: Will New York Giants beat Washington Commanders by 3 or more points?,0.49000000000000027,NO,auto-detected
 2026-11-14T15:24:35.557946,U2S9POtd9C,NBA: Will Oklahoma City Thunder beat LA Clippers by 8 or more points?,0.5000000000000001,NO,auto-detected
+2026-11-15T15:57:47.133787,N0SCZZZ9s6,NBA: Will Detroit Pistons beat Miami Heat by 5 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-15T15:57:51.383216,pq0OccuERA,NBA: Will Dallas Mavericks beat Cleveland Cavaliers by 2 or more points? ⌐■_■,0.5000000000000001,NO,auto-detected
+2026-11-15T15:57:51.581638,SyzzypPc2s,NBA: Will Memphis Grizzlies beat Brooklyn Nets by 4 or more points? ⌐■_■,0.6427342071873556,YES,auto-detected
+2026-11-15T15:57:53.924781,Q2P5dgpuAq,NBA: Will Minnesota Timberwolves beat Chicago Bulls by 15 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-15T15:57:54.745747,I5n6Chc5cq,NBA: Will Denver Nuggets beat New Orleans Pelicans by 13 or more points? ⌐■_■,0.5,CANCEL,auto-detected
