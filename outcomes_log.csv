@@ -296,3 +296,25 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-15T15:57:51.581638,SyzzypPc2s,NBA: Will Memphis Grizzlies beat Brooklyn Nets by 4 or more points? ⌐■_■,0.6427342071873556,YES,auto-detected
 2026-11-15T15:57:53.924781,Q2P5dgpuAq,NBA: Will Minnesota Timberwolves beat Chicago Bulls by 15 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-15T15:57:54.745747,I5n6Chc5cq,NBA: Will Denver Nuggets beat New Orleans Pelicans by 13 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-16T19:01:37.428077,ZQ2pZOACd2,NBA: Will Philadelphia 76ers beat Indiana Pacers by 8 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-16T19:01:38.084809,t9PgSAn0ER,NBA: Will Los Angeles Clippers beat Charlotte Hornets by 2 or more points? ⌐■_■,0.5180811296655544,YES,auto-detected
+2026-11-16T19:01:38.268537,CN9Esd0uqU,Will any game during week 10 of the 2026 NFL season end in a scorigami?,0.2082248828735035,YES,auto-detected
+2026-11-16T19:01:38.604822,8lyNtIOps2,NBA: Will San Antonio Spurs beat Utah Jazz by 17 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-16T19:01:39.237852,zEUAZdsPuP,NFL Week 10: Will San Francisco 49ers beat Dallas Cowboys by 5 or more points?,0.44999999999999996,YES,auto-detected
+2026-11-16T19:01:42.257263,Sy0QN2qAEI,NBA: Will New York Knicks beat Toronto Raptors by 5 or more points? ⌐■_■,0.5000000000000008,CANCEL,auto-detected
+2026-11-16T19:01:42.434560,A8PqNzyS5Z,NBA: Will Houston Rockets beat Washington Wizards by 10 or more points? ⌐■_■,0.5014678875082006,YES,auto-detected
+2026-11-16T19:01:42.747109,86N59L2U09,NBA: Will Boston Celtics beat Dallas Mavericks by 14 or more points? ⌐■_■,0.4900999803960008,YES,auto-detected
+2026-11-16T19:01:44.601665,Igy6SLQ8uI,NFL Week 10: Will Green Bay Packers beat Minnesota Vikings by 5 or more points?,0.40999999999999986,NO,auto-detected
+2026-11-16T19:01:47.437026,gq528L9s6c,NFL Week 10: Will New Orleans Saints beat Carolina Panthers by 2 or more points?,0.47000000000000003,NO,auto-detected
+2026-11-16T19:01:47.616873,E88slnNCL0,NFL Week 10: Will Kansas City Chiefs beat Atlanta Falcons by 4 or more points?,0.4600000000000002,YES,auto-detected
+2026-11-16T19:01:51.199564,O8PLNgUcOu,NFL Week 10: Will Los Angeles Rams beat Arizona Cardinals by 9 or more points?,0.53,YES,auto-detected
+2026-11-16T19:01:51.866487,IdS8uPS855,NFL Week 10: Will Cincinnati Bengals beat Pittsburgh Steelers by 4 or more points?,0.5100000000000001,YES,auto-detected
+2026-11-16T19:01:53.560688,pSENCyR9Zd,NFL Week 10: Will Seattle Seahawks beat Las Vegas Raiders by 4 or more points?,0.5900000000000001,YES,auto-detected
+2026-11-16T19:01:54.363817,SRQlZzQ5ZL,NBA: Will Los Angeles Lakers beat Phoenix Suns by 4 or more points? ⌐■_■,0.5000000000000004,CANCEL,auto-detected
+2026-11-16T19:01:55.782028,shEgULlhLg,NBA: Will Oklahoma City Thunder beat Sacramento Kings by 11 or more points? ⌐■_■,0.5099000196039992,YES,auto-detected
+2026-11-16T19:01:56.189857,Eg6IREUh9z,NFL Week 10: Will Buffalo Bills beat New York Jets by 8 or more points?,0.5099999999999999,YES,auto-detected
+2026-11-16T19:01:57.200372,nZLNusEtO2,NFL Week 10: Will Houston Texans beat Cleveland Browns by 5 or more points?,0.47000000000000003,NO,auto-detected
+2026-11-16T19:01:58.553061,Z2IQIt9RCy,NFL Week 10: Will Indianapolis Colts beat Miami Dolphins by 3 or more points?,0.6099999999999998,NO,auto-detected
+2026-11-16T19:01:58.940962,8IRyzz0gUZ,NFL Week 10: Will Detroit Lions beat New England Patriots by 3 or more points?,0.5100000000000001,YES,auto-detected
+2026-11-16T19:01:59.376646,gd25lCshcy,NBA: Will Atlanta Hawks beat Milwaukee Bucks by 8 or more points? ⌐■_■,0.4524886877828055,NO,auto-detected
+2026-11-16T19:02:00.814302,g2PAyQ2C8q,NFL Week 10: Will Jacksonville Jaguars beat Tennessee Titans by 10 or more points?,0.5500000000000002,YES,auto-detected
