@@ -318,3 +318,13 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-16T19:01:58.940962,8IRyzz0gUZ,NFL Week 10: Will Detroit Lions beat New England Patriots by 3 or more points?,0.5100000000000001,YES,auto-detected
 2026-11-16T19:01:59.376646,gd25lCshcy,NBA: Will Atlanta Hawks beat Milwaukee Bucks by 8 or more points? ⌐■_■,0.4524886877828055,NO,auto-detected
 2026-11-16T19:02:00.814302,g2PAyQ2C8q,NFL Week 10: Will Jacksonville Jaguars beat Tennessee Titans by 10 or more points?,0.5500000000000002,YES,auto-detected
+2026-11-17T17:58:37.490951,nCSEEOZ6C2,NBA: Will Minnesota Timberwolves beat Portland Trail Blazers by 3 or more points? ⌐■_■,0.5045276347156742,YES,auto-detected
+2026-11-17T17:58:37.886915,sCPn8lIs0g,NFL Week 10: Will Baltimore Ravens beat Los Angeles Chargers by 5 or more points? ⌐■_■,0.5215097309966217,NO,auto-detected
+2026-11-17T17:58:38.724684,CSp6pynZgn,NFL Week 10: Will the Chargers vs. Ravens game have an even or odd total point score?,0.5311562631467616,NO,auto-detected
+2026-11-17T17:58:43.780605,Cy9hqEPINA,NBA: Will Philadelphia 76ers beat Brooklyn Nets by 6 or more points? ⌐■_■,0.570389274366794,YES,auto-detected
+2026-11-17T17:58:48.042117,P6pcp0EEgt,NBA: Will Houston Rockets beat Miami Heat by 5 or more points? ⌐■_■,0.5901639344262296,NO,auto-detected
+2026-11-17T17:58:48.320084,8ydylC9yly,NBA: Will Denver Nuggets beat Phoenix Suns by 11 or more points? ⌐■_■,0.5147750982580426,NO,auto-detected
+2026-11-17T17:58:48.668641,nZNlZAyl2z,NBA: Will Boston Celtics beat Orlando Magic by 11 or more points? ⌐■_■,0.47848355164942924,NO,auto-detected
+2026-11-17T17:58:51.207632,d9uq2OpUNE,NBA: Will Golden State Warriors beat New Orleans Pelicans by 4 or more points? ⌐■_■,0.49999999999999994,NO,auto-detected
+2026-11-17T17:58:52.052033,9Z6uSChRS9,NBA: Will Memphis Grizzlies beat Washington Wizards by 6 or more points? ⌐■_■,0.34877657045975574,YES,auto-detected
+2026-11-17T17:58:52.872574,lhsCZPQLQE,NBA: Will Cleveland Cavaliers beat Chicago Bulls by 9 or more points? ⌐■_■,0.5000000000000006,YES,auto-detected
