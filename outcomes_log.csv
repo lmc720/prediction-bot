@@ -328,3 +328,11 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-17T17:58:51.207632,d9uq2OpUNE,NBA: Will Golden State Warriors beat New Orleans Pelicans by 4 or more points? ⌐■_■,0.49999999999999994,NO,auto-detected
 2026-11-17T17:58:52.052033,9Z6uSChRS9,NBA: Will Memphis Grizzlies beat Washington Wizards by 6 or more points? ⌐■_■,0.34877657045975574,YES,auto-detected
 2026-11-17T17:58:52.872574,lhsCZPQLQE,NBA: Will Cleveland Cavaliers beat Chicago Bulls by 9 or more points? ⌐■_■,0.5000000000000006,YES,auto-detected
+2026-11-18T17:40:27.988475,qpOElNtQ9z,NBA: Will Minnesota Timberwolves beat Portland Trail Blazers by 2 or more points? ⌐■_■,0.5224715345281735,NO,auto-detected
+2026-11-18T17:40:34.466331,0AIA5ULqUQ,Will any Green Bay Packers wide receiver surpass 777 receiving yards in the 2026 NFL season?,0.7064208799234647,YES,auto-detected
+2026-11-18T17:40:38.012541,zOCOItIQhS,NBA: Will San Antonio Spurs beat Detroit Pistons by 10 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-18T17:40:39.135663,NhELtpqnuA,NBA: Will Los Angeles Clippers beat Utah Jazz by 7 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-18T17:40:39.407263,lIzclyCc2E,NBA: Will Los Angeles Lakers beat Charlotte Hornets by 8 or more points? ⌐■_■,0.5103897738049715,NO,auto-detected
+2026-11-18T17:40:39.637698,Z0hshc0l5n,NFL: Will the Minnesota Vikings finish with 8 or more wins in the 2026 NFL regular season?,0.6032345681547815,YES,auto-detected
+2026-11-18T17:40:39.804254,5npyZRuAzN,NFL Week 12: Will Los Angeles Rams beat Green Bay Packers by 5 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-18T17:40:42.633113,0Zqu8pQtAO,NBA: Will New York Knicks beat Toronto Raptors by 4 or more points? ⌐■_■,0.47325516735485856,YES,auto-detected
