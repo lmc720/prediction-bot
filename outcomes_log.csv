@@ -336,3 +336,9 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-18T17:40:39.637698,Z0hshc0l5n,NFL: Will the Minnesota Vikings finish with 8 or more wins in the 2026 NFL regular season?,0.6032345681547815,YES,auto-detected
 2026-11-18T17:40:39.804254,5npyZRuAzN,NFL Week 12: Will Los Angeles Rams beat Green Bay Packers by 5 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-18T17:40:42.633113,0Zqu8pQtAO,NBA: Will New York Knicks beat Toronto Raptors by 4 or more points? ⌐■_■,0.47325516735485856,YES,auto-detected
+2026-11-19T17:49:41.456109,uz8ZqnlSPd,NBA: Will Phoenix Suns beat Sacramento Kings by 8 or more points? ⌐■_■,0.5,YES,auto-detected
+2026-11-19T17:49:42.778874,QzEcZ0z502,NBA: Will Oklahoma City Thunder beat Atlanta Hawks by 7 or more points? ⌐■_■,0.49999999999999994,CANCEL,auto-detected
+2026-11-19T17:49:43.771059,cRc0ZyyqCz,NBA: Will Boston Celtics beat Denver Nuggets by 3 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-19T17:49:44.375261,UqQEyugZsp,NBA: Will Dallas Mavericks beat Golden State Warriors by 5 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-19T17:49:45.428683,RUt8Zs05uI,NBA: Will Los Angeles Lakers beat Utah Jazz by 12 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-19T17:49:46.264288,nEcIZ9uhc6,NBA: Will Detroit Pistons beat New Orleans Pelicans by 5 or more points? ⌐■_■,0.4999999999999999,CANCEL,auto-detected
