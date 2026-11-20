@@ -342,3 +342,7 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-19T17:49:44.375261,UqQEyugZsp,NBA: Will Dallas Mavericks beat Golden State Warriors by 5 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-19T17:49:45.428683,RUt8Zs05uI,NBA: Will Los Angeles Lakers beat Utah Jazz by 12 or more points? ⌐■_■,0.5,NO,auto-detected
 2026-11-19T17:49:46.264288,nEcIZ9uhc6,NBA: Will Detroit Pistons beat New Orleans Pelicans by 5 or more points? ⌐■_■,0.4999999999999999,CANCEL,auto-detected
+2026-11-20T17:24:34.820633,9NyELZPuyA,NBA: Will San Antonio Spurs beat LA Clippers by 16 or more points? ⌐■_■,0.6097560975609757,NO,auto-detected
+2026-11-20T17:24:38.071869,u680u5gShl,NBA: Will Memphis Grizzlies beat Golden State Warriors by 7 or more points? ⌐■_■,0.5,YES,auto-detected
+2026-11-20T17:24:38.741928,l6pltduh8S,NBA: Will Portland Trail Blazers beat Milwaukee Bucks by 11 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-20T17:24:41.107590,E29yCQppsz,NBA: Will New York Knicks beat Minnesota Timberwolves by 2 or more points? ⌐■_■,0.5,CANCEL,auto-detected
