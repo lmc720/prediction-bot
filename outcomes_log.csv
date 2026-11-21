@@ -346,3 +346,10 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-20T17:24:38.071869,u680u5gShl,NBA: Will Memphis Grizzlies beat Golden State Warriors by 7 or more points? ⌐■_■,0.5,YES,auto-detected
 2026-11-20T17:24:38.741928,l6pltduh8S,NBA: Will Portland Trail Blazers beat Milwaukee Bucks by 11 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-20T17:24:41.107590,E29yCQppsz,NBA: Will New York Knicks beat Minnesota Timberwolves by 2 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-21T16:28:57.663937,089z0ghp99,NBA: Will Orlando Magic beat Brooklyn Nets by 7 or more points? ⌐■_■,0.5901639344262296,NO,auto-detected
+2026-11-21T16:29:00.113420,ZlzEdNlhqO,NBA: Will Detroit Pistons beat Toronto Raptors by 8 or more points? ⌐■_■,0.5243757431629014,NO,auto-detected
+2026-11-21T16:29:00.415019,g28R0N6s0P,NBA: Will Oklahoma City Thunder beat New Orleans Pelicans by 12 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-21T16:29:02.452515,8l22uLd0cO,NBA: Will Atlanta Hawks beat Charlotte Hornets by 8 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-21T16:29:05.504137,ItPEhUOZ8c,NBA: Will Cleveland Cavaliers beat Indiana Pacers by 7 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-21T16:29:06.682599,8nnypcC0ES,NFL Week 11: Will Houston Texans beat Indianapolis Colts by 11 or more points? ⌐■_■,0.5400000000000001,YES,auto-detected
+2026-11-21T16:29:07.174074,ONCtzds9Z2,NBA: Will Chicago Bulls beat Washington Wizards by 3 or more points? ⌐■_■,0.5079360080619764,NO,auto-detected
