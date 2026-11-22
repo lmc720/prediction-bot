@@ -353,3 +353,15 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-21T16:29:05.504137,ItPEhUOZ8c,NBA: Will Cleveland Cavaliers beat Indiana Pacers by 7 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-21T16:29:06.682599,8nnypcC0ES,NFL Week 11: Will Houston Texans beat Indianapolis Colts by 11 or more points? ⌐■_■,0.5400000000000001,YES,auto-detected
 2026-11-21T16:29:07.174074,ONCtzds9Z2,NBA: Will Chicago Bulls beat Washington Wizards by 3 or more points? ⌐■_■,0.5079360080619764,NO,auto-detected
+2026-11-22T16:46:17.020353,5z9uIy62pp,NBA: Will Minnesota Timberwolves beat Memphis Grizzlies by 6 or more points? ⌐■_■,0.5475113122171946,YES,auto-detected
+2026-11-22T16:46:17.315809,60g0IQ6U0u,EPL: Will Chelsea beat Leeds United?,0.46999999999999986,NO,auto-detected
+2026-11-22T16:46:17.566291,dUIZ6zu5cy,NBA: Will Boston Celtics beat Sacramento Kings by 14 or more points? ⌐■_■,0.5049750012375624,NO,auto-detected
+2026-11-22T16:46:17.921888,9A6LgLNquC,EPL: Will Tottenham Hotspur beat Ipswich Town by 2 or more goals?,0.4378534401431297,YES,auto-detected
+2026-11-22T16:46:19.514438,ZElS8qnhAZ,NBA: Will San Antonio Spurs beat New Orleans Pelicans by 18 or more points? ⌐■_■,0.5475113122171946,YES,auto-detected
+2026-11-22T16:46:21.359142,02uOgcIIcl,Erling Halaand to score against Fulham.,0.5999999999999999,NO,auto-detected
+2026-11-22T16:46:21.517514,SUAqELNqdz,Will Spurs win against Ipswich Town in GW11?,0.99,YES,auto-detected
+2026-11-22T16:46:21.815549,NqqNhIRsLc,EPL: Will Arsenal beat Newcastle United by 2 or more goals?,0.35755108082802134,NO,auto-detected
+2026-11-22T16:46:22.358272,qthOLCzy95,NBA: Will New York Knicks beat Portland Trail Blazers by 6 or more points? ⌐■_■,0.43493011080448973,NO,auto-detected
+2026-11-22T16:46:22.499374,gZPQg08ulS,NBA: Will Dallas Mavericks beat LA Clippers by 6 or more points? ⌐■_■,0.4950249987624376,YES,auto-detected
+2026-11-22T16:46:23.205236,LnPzO5h6IQ,EPL: Will Coventry City beat Crystal Palace?,0.3800000000000001,YES,auto-detected
+2026-11-22T16:46:23.445506,dROyyu80Eu,EPL: Will Aston Villa beat Sunderland?,0.55,NO,auto-detected
