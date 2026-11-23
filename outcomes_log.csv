@@ -365,3 +365,25 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-22T16:46:22.499374,gZPQg08ulS,NBA: Will Dallas Mavericks beat LA Clippers by 6 or more points? ⌐■_■,0.4950249987624376,YES,auto-detected
 2026-11-22T16:46:23.205236,LnPzO5h6IQ,EPL: Will Coventry City beat Crystal Palace?,0.3800000000000001,YES,auto-detected
 2026-11-22T16:46:23.445506,dROyyu80Eu,EPL: Will Aston Villa beat Sunderland?,0.55,NO,auto-detected
+2026-11-23T20:42:11.226328,ZzAPpRQlzc,Will any game during week 11 of the 2026 NFL season end in a scorigami?,0.2688567118251958,YES,auto-detected
+2026-11-23T20:42:11.288948,InZR0czzEU,NFL Week 11: Will Denver Broncos beat Las Vegas Raiders by 11 or more points? ⌐■_■,0.52,YES,auto-detected
+2026-11-23T20:42:11.421353,QhsuCz0u0g,NFL Week 11: Will Kansas City Chiefs beat Arizona Cardinals by 17 or more points? ⌐■_■,0.46999999999999975,YES,auto-detected
+2026-11-23T20:42:11.498527,6ECcENNEtt,NFL Week 11: Will Detroit Lions beat Tampa Bay Buccaneers by 7 or more points? ⌐■_■,0.4099999999999999,YES,auto-detected
+2026-11-23T20:42:12.554418,Z5ICu8ynhp,NBA: Will Boston Celtics beat Golden State Warriors by 9 or more points? ⌐■_■,0.49963567249081575,NO,auto-detected
+2026-11-23T20:42:12.738867,EdNS6p29tg,NFL Week 11: Will Dallas Cowboys beat Tennessee Titans by 8 or more points? ⌐■_■,0.48999999999999994,YES,auto-detected
+2026-11-23T20:42:14.044860,PqQUghqLSg,NFL Week 11: Will Jacksonville Jaguars beat New York Giants by 6 or more points? ⌐■_■,0.52,NO,auto-detected
+2026-11-23T20:42:14.161851,slhn8OhtCt,"Will there be a Scorigami in weeks 11, 12, or 13 of the NFL Season?",0.5,YES,auto-detected
+2026-11-23T20:42:14.299786,9qpUZQRRLN,NBA: Will Miami Heat beat Oklahoma City Thunder by 4 or more points? ⌐■_■,0.4883673555171273,YES,auto-detected
+2026-11-23T20:42:14.525407,d6cP0CgRlc,NFL Week 11: Will Carolina Panthers beat Baltimore Ravens by 3 or more points? ⌐■_■,0.5148290585843511,NO,auto-detected
+2026-11-23T20:42:14.810804,ZC5gAdgEZN,NFL Week 11: Will Pittsburgh Steelers beat Philadelphia Eagles by 5 or more points? ⌐■_■,0.45999999999999996,NO,auto-detected
+2026-11-23T20:42:15.067601,0gEzEEEtdp,NFL Week 11: Will Los Angeles Chargers beat New York Jets by 4 or more points? ⌐■_■,0.4599999999999998,NO,auto-detected
+2026-11-23T20:42:15.290383,gIslR0dyn0,NFL Week 11: Will Chicago Bears beat New Orleans Saints by 12 or more points? ⌐■_■,0.5549617571084765,NO,auto-detected
+2026-11-23T20:42:15.378780,5qCyhIlLQl,EPL: Will Liverpool beat Manchester United? ⌐■_■,0.5600000000000002,YES,auto-detected
+2026-11-23T20:42:15.419139,hqAnNdUPds,NBA: Will Orlando Magic beat Washington Wizards by 5 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-23T20:42:16.114555,ZE868h69Oy,Liverpool defeat Man United ?,0.5475113122171946,YES,auto-detected
+2026-11-23T20:42:16.301312,ZQ85QtczRu,NBA: Will Detroit Pistons beat Atlanta Hawks by 2 or more points? ⌐■_■,0.5000000000000001,NO,auto-detected
+2026-11-23T20:42:16.344468,dRZhucctZL,NFL Week 11: Will Buffalo Bills beat Miami Dolphins by 17 or more points? ⌐■_■,0.49,YES,auto-detected
+2026-11-23T20:42:16.532651,hugE0RUAAQ,NBA: Will Denver Nuggets beat Chicago Bulls by 9 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-23T20:42:16.618714,CnUI8SEsNL,NFL Week 11: Will San Francisco 49ers beat Minnesota Vikings by 4 or more points? ⌐■_■,0.51,YES,auto-detected
+2026-11-23T20:42:16.672406,cp8U0zqdId,NBA: Will Dallas Mavericks beat Utah Jazz by 2 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-23T20:42:17.025826,UuSNzs9h6s,NBA: Will New York Knicks beat Indiana Pacers by 9 or more points? ⌐■_■,0.5000104313513439,NO,auto-detected
