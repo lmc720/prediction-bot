@@ -387,3 +387,15 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-23T20:42:16.618714,CnUI8SEsNL,NFL Week 11: Will San Francisco 49ers beat Minnesota Vikings by 4 or more points? ⌐■_■,0.51,YES,auto-detected
 2026-11-23T20:42:16.672406,cp8U0zqdId,NBA: Will Dallas Mavericks beat Utah Jazz by 2 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-23T20:42:17.025826,UuSNzs9h6s,NBA: Will New York Knicks beat Indiana Pacers by 9 or more points? ⌐■_■,0.5000104313513439,NO,auto-detected
+2026-11-24T19:47:44.156415,nss6ypLLs0,EPL: Will Brentford beat Everton? ⌐■_■,0.4199999999999999,YES,auto-detected
+2026-11-24T19:47:45.175479,gdzQlpzQ8d,NBA: Will Oklahoma City Thunder beat Indiana Pacers by 5 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-24T19:47:47.186814,t6h6uQ9qZE,NBA: Will San Antonio Spurs beat Sacramento Kings by 11 or more points? ⌐■_■,0.5,YES,auto-detected
+2026-11-24T19:47:47.839449,uSAOQnU0Pn,NBA: Will Los Angeles Lakers beat Utah Jazz by 14 or more points? ⌐■_■,0.5,YES,auto-detected
+2026-11-24T19:47:49.053523,L0NdN52uyL,NBA: Will Cleveland Cavaliers beat Chicago Bulls by 9 or more points? ⌐■_■,0.5729528077870655,NO,auto-detected
+2026-11-24T19:47:50.566878,zzluOunPA8,NBA: Will Houston Rockets beat LA Clippers by 14 or more points? ⌐■_■,0.5,CANCEL,auto-detected
+2026-11-24T19:47:53.788532,dU958dZA8C,NBA: Will Phoenix Suns beat New Orleans Pelicans by 3 or more points? ⌐■_■,0.5000000000000004,YES,auto-detected
+2026-11-24T19:47:54.340231,hccdtg2IRl,NBA: Will Philadelphia 76ers beat Portland Trail Blazers by 4 or more points? ⌐■_■,0.5214288391879147,NO,auto-detected
+2026-11-24T19:47:54.675762,RyEORQyNSc,NBA: Will Memphis Grizzlies beat Charlotte Hornets by 4 or more points? ⌐■_■,0.5531753094966858,YES,auto-detected
+2026-11-24T19:47:57.744526,z8dZ9g5UUU,NBA: Will Toronto Raptors beat Milwaukee Bucks by 11 or more points? ⌐■_■,0.5,NO,auto-detected
+2026-11-24T19:47:58.429282,n6sntC2yRZ,NFL Week 11: Will Cincinnati Bengals beat Washington Commanders by 7 or more points? ⌐■_■,0.49000000000000005,NO,auto-detected
+2026-11-24T19:47:58.975392,lcqRt8OtcE,NBA: Will Minnesota Timberwolves beat Brooklyn Nets by 12 or more points? ⌐■_■,0.5,CANCEL,auto-detected
