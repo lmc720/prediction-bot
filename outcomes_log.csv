@@ -400,3 +400,5 @@ date_logged,market_id,question,market_probability,actual_outcome,notes
 2026-11-24T19:47:58.429282,n6sntC2yRZ,NFL Week 11: Will Cincinnati Bengals beat Washington Commanders by 7 or more points? ⌐■_■,0.49000000000000005,NO,auto-detected
 2026-11-24T19:47:58.975392,lcqRt8OtcE,NBA: Will Minnesota Timberwolves beat Brooklyn Nets by 12 or more points? ⌐■_■,0.5,CANCEL,auto-detected
 2026-11-25T18:53:41.069891,RR2R6NLlCs,NBA: Will Denver Nuggets beat Dallas Mavericks by 8 or more points? ⌐■_■,0.4828191665878656,NO,auto-detected
+2026-11-26T18:42:42.517696,0uttZUAcls,"Will any English Premier League manager be fired before November 1, 2026?",0.3137803904426209,NO,auto-detected
+2026-11-26T18:42:52.714010,hPp8hClqqN,NFL Week 12: Will Los Angeles Rams beat Green Bay Packers by 4 or more points? ⌐■_■,0.41999999999999993,YES,auto-detected
